@@ -1,5 +1,3 @@
-<![CDATA[<div align="center">
-
 # ⚖️ Nyay-Samiti
 
 ### AI-Powered Legal Document Analysis Platform
@@ -16,7 +14,6 @@
 
 [Features](#-features) · [Architecture](#-system-architecture) · [ML Models](#-machine-learning-pipeline) · [Quick Start](#-quick-start) · [API Reference](#-api-reference) · [Contributing](#-contributing)
 
-</div>
 
 ---
 
@@ -626,12 +623,7 @@ Copyright © 2025 [ronbell1](https://github.com/ronbell1), [xpushkal](https://gi
 
 ---
 
-<div align="center">
 
 **Built with ❤️ for the legal tech community**
 
 ⭐ Star this repo if you find it useful!
-
-</div>
-]]>
-# Nyay-Samiti
