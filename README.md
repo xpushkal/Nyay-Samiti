@@ -54,7 +54,7 @@ The platform combines a **Next.js 14** frontend/backend with a **FastAPI** ML mi
 - **Indian Legal Context** — Trained on Indian legal documents and procedures (InLegalNER dataset)
 - **Real-Time Processing** — 10–15 second total analysis with live progress tracking
 - **End-to-End Platform** — Upload → Analyze → Dashboard — no external tools needed
-- **Production-Ready** — Docker, Prometheus/Grafana monitoring, Kafka event streaming
+- **Production-Ready** — Docker Compose with Prometheus/Grafana monitoring
 
 ---
 
@@ -126,8 +126,8 @@ The platform combines a **Next.js 14** frontend/backend with a **FastAPI** ML mi
 └─────────────────────────────────────────────────────────────────┘
 
 ┌─────────────────────────────────────────────────────────────────┐
-│  INFRASTRUCTURE: MongoDB │ Kafka │ Zookeeper │ Prometheus │     │
-│                  Grafana │ Docker Compose                       │
+│  INFRASTRUCTURE: SQLite/PostgreSQL │ Prometheus │ Grafana │     │
+│                  Docker Compose                                  │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
@@ -170,7 +170,7 @@ The platform combines a **Next.js 14** frontend/backend with a **FastAPI** ML mi
 
 ### Model Checkpoints
 
-All trained model weights are stored in `Legal ML/checkpoints/`:
+All trained model weights are stored in `services/legal-ml/checkpoints/`:
 
 ```
 checkpoints/
@@ -215,9 +215,7 @@ checkpoints/
 | Technology | Purpose |
 |---|---|
 | **Docker + Docker Compose** | Containerized deployment |
-| **MongoDB** | Document database (production) |
 | **SQLite / PostgreSQL** | Relational database (Prisma) |
-| **Apache Kafka** | Event streaming |
 | **Prometheus** | Metrics collection |
 | **Grafana** | Monitoring dashboards |
 
@@ -230,7 +228,7 @@ checkpoints/
 - **Node.js** 20+ and npm
 - **Python** 3.11+
 - **8GB+ RAM** (ML models require ~6GB)
-- **~10GB disk space** for model checkpoints
+- **~5GB disk space** for the trimmed inference checkpoints
 
 ### 1. Clone the Repository
 
@@ -262,7 +260,7 @@ npm run dev
 
 ```bash
 # Navigate to ML directory
-cd "Legal ML"
+cd "services/legal-ml"
 
 # Create virtual environment
 python3.11 -m venv .venv
@@ -284,7 +282,7 @@ python main.py
 ### 4. (Optional) Docker Deployment
 
 ```bash
-# Start all services (Next.js, MongoDB, Kafka, Prometheus, Grafana)
+# Start all services (Next.js, ML service, Prometheus, Grafana)
 docker compose up -d
 ```
 
@@ -320,7 +318,7 @@ nyay-samiti/
 │       ├── metrics.ts                # Prometheus metrics
 │       └── utils.ts                  # General utilities
 │
-├── Legal ML/                         # FastAPI ML microservice
+├── services/legal-ml/                # FastAPI ML microservice
 │   ├── main.py                       # FastAPI entry point (7 model routers)
 │   ├── app/
 │   │   ├── api/                      # API route handlers
@@ -346,7 +344,7 @@ nyay-samiti/
 │   │   │   ├── qa/                   # Question Answering
 │   │   │   └── backend_integration.py
 │   │   └── data/                     # Data utilities
-│   ├── checkpoints/                  # Trained model weights (~10GB)
+│   ├── checkpoints/                  # Trained inference weights (~5GB)
 │   ├── configs/                      # Label schemas, policies
 │   ├── model_development/
 │   │   ├── datasets/                 # Dataset preparation scripts
@@ -358,11 +356,11 @@ nyay-samiti/
 │
 ├── prisma/
 │   └── schema.prisma                 # Database schema (Document, Analysis)
-├── sample_documents/                 # 7 sample legal documents for testing
+├── examples/sample-documents/        # 7 sample legal documents for testing
 ├── docs/                             # Documentation
 │   ├── MODEL_PERFORMANCE.md          # Detailed model metrics
 │   └── WORKFLOW.md                   # End-to-end workflow docs
-├── prometheus/                       # Prometheus configuration
+├── infra/prometheus/                  # Prometheus configuration
 ├── docker-compose.yml                # Multi-service Docker config
 ├── Dockerfile                        # Next.js container (multi-stage build)
 └── package.json                      # Node.js dependencies
@@ -433,14 +431,12 @@ curl -X POST "http://localhost:8000/api/risk/score" \
 
 ## 🐳 Docker Deployment
 
-The `docker-compose.yml` orchestrates 6 services:
+The `docker-compose.yml` orchestrates 4 services:
 
 | Service | Image | Port | Purpose |
 |---------|-------|------|---------|
 | **app** | Custom (Dockerfile) | `3000` | Next.js application |
-| **mongodb** | `mongo:latest` | `27017` | Document database |
-| **zookeeper** | `confluentinc/cp-zookeeper` | `2181` | Kafka coordination |
-| **kafka** | `confluentinc/cp-kafka` | `9092` | Event streaming |
+| **ml-service** | Custom (`services/legal-ml/Dockerfile`) | `8000` | FastAPI ML API |
 | **prometheus** | `prom/prometheus` | `9090` | Metrics collection |
 | **grafana** | `grafana/grafana` | `3001` | Monitoring dashboards |
 
@@ -459,7 +455,7 @@ docker compose down
 
 ## 📈 Monitoring & Observability
 
-- **Prometheus** scrapes metrics from the Next.js app (`/api/metrics`) and Kafka every 5 seconds
+- **Prometheus** scrapes metrics from the Next.js app (`/api/metrics`) every 5 seconds
 - **Grafana** (port `3001`) provides visual dashboards for request latency, throughput, and model performance
 - Application metrics are exported via the `prom-client` library
 
@@ -470,7 +466,7 @@ docker compose down
 ### ML Service Integration Tests
 
 ```bash
-cd "Legal ML"
+cd "services/legal-ml"
 source .venv/bin/activate
 export PYTHONPATH=$(pwd)
 
@@ -489,7 +485,7 @@ pytest tests/integration/ -v
 
 ### Sample Documents
 
-The `sample_documents/` directory includes 7 test documents:
+The `examples/sample-documents/` directory includes 7 test documents:
 
 - `test-employment-contract.txt`
 - `test-nda-agreement.txt`
@@ -507,12 +503,12 @@ The `sample_documents/` directory includes 7 test documents:
 
 **Next.js (`.env`)**
 ```env
-DATABASE_URL="postgresql://user:password@localhost:5432/nyay_samiti"
-ML_SERVICE_URL="http://localhost:8000/api"
+DATABASE_URL="file:./dev.db"
+ML_SERVICE_URL="http://localhost:8000"
 ML_API_KEY="your_secret_ml_api_key"
 ```
 
-**ML Service (`Legal ML/.env`)**
+**ML Service (`services/legal-ml/.env`)**
 ```env
 BACKEND_URL="http://localhost:3000/api"
 BACKEND_API_KEY="your_secret_backend_api_key"
@@ -572,7 +568,7 @@ Default: **SQLite** for development. Switch to **PostgreSQL** for production by 
 | RAM | 8 GB | 16 GB |
 | CPU | 4 cores | 8+ cores |
 | GPU | Optional | NVIDIA T4+ |
-| Disk | 10 GB | 15 GB |
+| Disk | 5 GB | 10 GB |
 
 ---
 
@@ -582,7 +578,7 @@ Default: **SQLite** for development. Switch to **PostgreSQL** for production by 
 |----------|-------------|
 | [`docs/MODEL_PERFORMANCE.md`](docs/MODEL_PERFORMANCE.md) | Detailed accuracy, training info, and example outputs for all 7 models |
 | [`docs/WORKFLOW.md`](docs/WORKFLOW.md) | End-to-end system workflow with sequence diagrams |
-| [`Legal ML/README.md`](Legal%20ML/README.md) | ML service setup, API usage, and training instructions |
+| [`services/legal-ml/README.md`](services/legal-ml/README.md) | ML service setup, API usage, and training instructions |
 
 ---
 
@@ -604,7 +600,7 @@ npm run dev          # Next.js dev server (port 3000)
 npm run lint         # ESLint
 
 # ML Service
-cd "Legal ML"
+cd "services/legal-ml"
 uvicorn main:app --reload   # FastAPI dev server (port 8000)
 pytest tests/ -v             # Run tests
 ```

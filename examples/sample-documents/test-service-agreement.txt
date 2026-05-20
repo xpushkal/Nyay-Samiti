@@ -1,0 +1,435 @@
+MASTER SERVICE AGREEMENT
+
+This Master Service Agreement ("Agreement") is entered into effective as of November 1, 2025 ("Effective Date"), by and between:
+
+SERVICE PROVIDER:
+Quantum Digital Solutions Ltd.
+Company Registration Number: 08765432
+Registered Office: Level 42, Tower One, Marina Bay Financial Centre
+Singapore 018989
+Email: contracts@quantumdigital.sg
+Phone: +65 6789 1234
+("Provider", "Consultant", "we", "us", "our")
+
+CLIENT:
+GlobalRetail Corporation
+Delaware Corporation, Tax ID: 98-7654321
+Principal Office: 1000 Commerce Plaza, 15th Floor
+New York, New York 10005, United States
+Email: procurement@globalretail.com
+Phone: +1 (212) 555-7890
+("Client", "Customer", "you", "your")
+
+RECITALS
+
+WHEREAS, Provider is engaged in the business of providing enterprise software development, cloud infrastructure management, and IT consulting services;
+
+WHEREAS, Client desires to engage Provider to perform certain services related to digital transformation, e-commerce platform development, and ongoing technical support;
+
+WHEREAS, the parties wish to establish the terms and conditions under which Provider will perform services for Client;
+
+NOW, THEREFORE, in consideration of the mutual covenants and agreements herein contained, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties agree as follows:
+
+1. SCOPE OF SERVICES
+
+1.1 Services Overview. Provider agrees to perform professional services for Client as described in one or more Statements of Work ("SOW") executed pursuant to this Agreement. Services may include:
+
+   (a) Custom Software Development
+       - Full-stack web application development
+       - Mobile application development (iOS and Android)
+       - API development and integration
+       - Database design and optimization
+       - Microservices architecture implementation
+
+   (b) Cloud Infrastructure Services
+       - AWS/Azure/GCP cloud architecture design
+       - Cloud migration and deployment
+       - DevOps and CI/CD pipeline setup
+       - Container orchestration (Kubernetes, Docker)
+       - Infrastructure as Code (Terraform, CloudFormation)
+
+   (c) Consulting and Advisory Services
+       - Technology strategy and roadmap development
+       - Digital transformation consulting
+       - Security assessment and compliance review
+       - Performance optimization and scalability planning
+       - Technical due diligence
+
+   (d) Maintenance and Support Services
+       - 24/7 production support
+       - Bug fixes and patches
+       - Performance monitoring and optimization
+       - Security updates and vulnerability management
+       - Documentation and knowledge transfer
+
+1.2 Statements of Work. Each SOW shall specify:
+   - Detailed scope and deliverables
+   - Project timeline and milestones
+   - Fees and payment terms
+   - Acceptance criteria
+   - Resource allocation
+   - Any specific terms supplementing or modifying this Agreement
+
+1.3 Changes to Scope. Any changes to an SOW must be documented in a written change order signed by both parties. Provider is not obligated to perform work outside the agreed SOW.
+
+1.4 Client Responsibilities. Client shall:
+   - Provide timely access to systems, data, and personnel
+   - Designate a primary point of contact with decision-making authority
+   - Provide necessary licenses, credentials, and approvals
+   - Review and approve deliverables within agreed timeframes
+   - Provide feedback and clarifications promptly
+   - Ensure availability of Client resources as specified in SOW
+
+2. TERM AND TERMINATION
+
+2.1 Initial Term. This Agreement commences on the Effective Date and continues for an initial term of three (3) years, unless earlier terminated as provided herein.
+
+2.2 Renewal. This Agreement automatically renews for successive one (1) year terms unless either party provides written notice of non-renewal at least ninety (90) days before the end of the then-current term.
+
+2.3 Termination for Convenience. Either party may terminate this Agreement (but not individual SOWs) upon ninety (90) days' prior written notice.
+
+2.4 Termination for Cause. Either party may terminate this Agreement immediately upon written notice if the other party:
+   (a) Materially breaches this Agreement and fails to cure within thirty (30) days of written notice
+   (b) Becomes insolvent, files for bankruptcy, or makes an assignment for the benefit of creditors
+   (c) Ceases business operations
+   (d) Commits fraud or engages in illegal activities related to this Agreement
+
+2.5 Termination of SOWs. Individual SOWs may be terminated as specified therein, which shall not affect this master Agreement or other SOWs.
+
+2.6 Effect of Termination:
+   (a) Provider shall immediately cease work on all SOWs
+   (b) Client shall pay for all work completed and expenses incurred through termination date
+   (c) Provider shall deliver all work product and Client materials within fifteen (15) days
+   (d) Client shall return or destroy all Provider confidential information
+   (e) Sections 5 (Intellectual Property), 6 (Confidentiality), 8 (Limitation of Liability), 9 (Indemnification), and 11 (General Provisions) survive termination
+
+2.7 Termination Fees. If Client terminates for convenience:
+   - Before 25% completion: 25% of remaining SOW fees
+   - Before 50% completion: 50% of remaining SOW fees
+   - Before 75% completion: 75% of remaining SOW fees
+   - After 75% completion: 100% of remaining SOW fees
+
+3. FEES AND PAYMENT
+
+3.1 Service Fees. Client shall pay Provider fees as specified in each SOW. Unless otherwise stated, fees are based on:
+
+   Time and Materials:
+   - Senior Architect/Principal Consultant: $250 USD per hour
+   - Senior Developer/DevOps Engineer: $180 USD per hour
+   - Mid-Level Developer: $140 USD per hour
+   - Junior Developer/QA Engineer: $95 USD per hour
+   - Project Manager: $160 USD per hour
+
+   Fixed Fee Projects:
+   - As specified in individual SOWs
+   - Payment tied to milestone completion
+
+3.2 Expenses. Client shall reimburse Provider for pre-approved, reasonable, and documented out-of-pocket expenses including:
+   - Travel (airfare, hotel, ground transportation)
+   - Cloud infrastructure costs (AWS, Azure, GCP)
+   - Third-party software licenses required for project
+   - Subcontractor fees (if pre-approved)
+   - Professional certifications or training (if required by Client)
+
+3.3 Invoicing. Provider shall invoice Client:
+   - Time and Materials: Twice monthly (15th and end of month)
+   - Fixed Fee: Upon completion of milestones as defined in SOW
+   - Expenses: Monthly with supporting documentation
+
+3.4 Payment Terms. Invoices are due and payable within thirty (30) days of invoice date ("Net 30"). Payment shall be made via:
+   - Wire transfer to designated bank account
+   - ACH transfer
+   - Check (for amounts under $10,000 USD)
+
+3.5 Late Payment. Overdue amounts incur interest at the rate of one and one-half percent (1.5%) per month or the maximum rate permitted by law, whichever is less.
+
+3.6 Taxes. Fees exclude all applicable taxes, duties, and levies. Client is responsible for all taxes except taxes based on Provider's net income. If Provider is required to pay such taxes, Client shall reimburse Provider.
+
+3.7 Rate Adjustments. Provider may adjust hourly rates annually upon sixty (60) days' written notice, not to exceed 5% per year. Adjustments apply to new SOWs only; existing SOWs are unaffected.
+
+3.8 Retainer. Client shall pay a monthly retainer of $25,000 USD for priority access to support services and resource availability. Retainer is credited against monthly invoices.
+
+3.9 Disputed Invoices. Client must notify Provider of disputed charges within fifteen (15) days of invoice date with detailed explanation. Undisputed amounts remain due.
+
+4. DELIVERABLES AND ACCEPTANCE
+
+4.1 Delivery. Provider shall deliver work products as specified in each SOW. Deliverables may include:
+   - Source code and compiled applications
+   - Technical documentation
+   - Deployment scripts and configurations
+   - Test results and quality reports
+   - Training materials
+   - System architecture diagrams
+
+4.2 Acceptance Testing. Client has fifteen (15) business days from delivery to test deliverables and provide written acceptance or rejection notice specifying deficiencies.
+
+4.3 Deemed Acceptance. If Client does not provide notice within the acceptance period, deliverables are deemed accepted.
+
+4.4 Rejection. If Client rejects deliverables:
+   - Rejection must specify material deficiencies in reasonable detail
+   - Provider has fifteen (15) business days to cure deficiencies
+   - Process repeats for up to two (2) additional cycles
+   - If Provider cannot cure, Client may: (i) accept with price reduction, (ii) terminate SOW and receive refund for that deliverable, or (iii) have Provider re-perform work at no charge
+
+4.5 Final Acceptance. Upon final acceptance, Provider's warranty obligations begin, and Client may not later claim deliverables are deficient except under warranty provisions.
+
+5. INTELLECTUAL PROPERTY RIGHTS
+
+5.1 Client Owns Custom Work Product. All work product specifically created for Client under an SOW ("Custom Work Product") shall be owned exclusively by Client, including:
+   - Custom software applications
+   - Custom designs and specifications
+   - Custom documentation
+   - Client-specific configurations
+
+5.2 Assignment. Provider hereby assigns to Client all right, title, and interest in Custom Work Product, effective upon full payment of fees for such work. Provider shall execute any documents necessary to perfect Client's ownership.
+
+5.3 Provider Retains Pre-Existing IP. Provider retains all rights to:
+   - Pre-existing software, tools, libraries, and frameworks
+   - General knowledge, skills, and experience
+   - Development methodologies and processes
+   - Reusable code components and templates ("Provider Tools")
+
+5.4 License to Provider Tools. Provider grants Client a perpetual, irrevocable, worldwide, non-exclusive, royalty-free license to use Provider Tools incorporated into Custom Work Product.
+
+5.5 License to Pre-Existing Client IP. Client grants Provider a limited license to use Client's pre-existing intellectual property solely as necessary to perform services under this Agreement.
+
+5.6 Third-Party Software. Any third-party software or open-source components shall be identified in the SOW. Client is responsible for obtaining and maintaining necessary licenses. Provider makes no warranties regarding third-party software.
+
+5.7 Moral Rights. Provider irrevocably waives any moral rights in Custom Work Product to the extent permitted by law.
+
+5.8 Provider's Right to Reference. Provider may reference Client as a customer and use Client's name/logo in marketing materials unless Client objects in writing. Provider may create case studies with Client's prior written approval.
+
+6. CONFIDENTIAL INFORMATION
+
+6.1 Definition. "Confidential Information" means all non-public information disclosed by one party ("Disclosing Party") to the other party ("Receiving Party") that:
+   (a) Is marked as "Confidential," "Proprietary," or similar designation
+   (b) Would reasonably be considered confidential given its nature and circumstances of disclosure
+   (c) Includes business plans, financial data, customer information, technical data, source code, trade secrets, and proprietary methodologies
+
+6.2 Obligations. Receiving Party shall:
+   - Maintain confidentiality using at least the same degree of care as for its own confidential information, but no less than reasonable care
+   - Use Confidential Information only for purposes of this Agreement
+   - Limit disclosure to employees, contractors, and advisors with need to know who are bound by confidentiality obligations
+   - Not reverse engineer or attempt to derive source code or algorithms from Confidential Information
+   - Promptly notify Disclosing Party of any unauthorized use or disclosure
+
+6.3 Exceptions. Obligations do not apply to information that:
+   (a) Was publicly available at time of disclosure or becomes publicly available through no fault of Receiving Party
+   (b) Was rightfully in Receiving Party's possession before disclosure
+   (c) Is rightfully received from a third party without confidentiality restrictions
+   (d) Is independently developed by Receiving Party without use of Confidential Information
+   (e) Must be disclosed pursuant to law, regulation, or court order (with prompt notice to Disclosing Party)
+
+6.4 Return or Destruction. Upon termination or upon request, Receiving Party shall return or destroy all Confidential Information and certify compliance in writing.
+
+6.5 Duration. Confidentiality obligations survive for five (5) years after termination of this Agreement, except trade secrets which remain protected indefinitely.
+
+6.6 Equitable Relief. Breach of confidentiality may cause irreparable harm. Disclosing Party may seek injunctive relief without proving actual damages or posting bond.
+
+7. REPRESENTATIONS AND WARRANTIES
+
+7.1 Provider Warranties. Provider represents and warrants that:
+   (a) It has the right and authority to enter this Agreement and perform services
+   (b) Services will be performed in a professional and workmanlike manner consistent with industry standards
+   (c) Custom Work Product will be original or Provider has rights to license/assign it
+   (d) Custom Work Product will not infringe third-party intellectual property rights
+   (e) Provider has necessary skills, qualifications, and resources to perform services
+   (f) It will comply with all applicable laws and regulations
+
+7.2 Client Warranties. Client represents and warrants that:
+   (a) It has authority to enter this Agreement
+   (b) All Client materials provided to Provider do not infringe third-party rights
+   (c) Client has necessary rights to grant licenses to Provider as contemplated herein
+   (d) Client will comply with all applicable laws
+
+7.3 Software Warranty. Provider warrants that Custom Work Product will substantially conform to specifications in the SOW for ninety (90) days after acceptance ("Warranty Period"). If Client reports non-conformity during Warranty Period, Provider will, at its option:
+   (a) Repair or replace defective Custom Work Product, or
+   (b) Re-perform deficient services at no charge, or
+   (c) If Provider cannot cure, refund fees paid for defective work
+
+7.4 Warranty Exclusions. Warranties do not cover defects caused by:
+   - Client's misuse, modification, or negligence
+   - Third-party software or hardware
+   - Client's failure to install updates or patches
+   - Operating outside specified environment
+   - Force majeure events
+
+7.5 DISCLAIMER. EXCEPT AS EXPRESSLY PROVIDED IN THIS SECTION 7, PROVIDER PROVIDES SERVICES "AS IS" WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT. PROVIDER DOES NOT WARRANT UNINTERRUPTED OR ERROR-FREE SERVICE.
+
+8. LIMITATION OF LIABILITY
+
+8.1 MAXIMUM LIABILITY. EXCEPT FOR EXCLUDED CLAIMS (SECTION 8.5), EACH PARTY'S TOTAL AGGREGATE LIABILITY ARISING OUT OF OR RELATED TO THIS AGREEMENT SHALL NOT EXCEED THE GREATER OF:
+   (a) FEES PAID BY CLIENT IN THE TWELVE (12) MONTHS PRECEDING THE CLAIM, OR
+   (b) FIVE HUNDRED THOUSAND DOLLARS ($500,000 USD)
+
+8.2 CONSEQUENTIAL DAMAGES WAIVER. EXCEPT FOR EXCLUDED CLAIMS (SECTION 8.5), NEITHER PARTY SHALL BE LIABLE FOR:
+   (a) INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES
+   (b) LOSS OF PROFITS, REVENUE, OR BUSINESS OPPORTUNITIES
+   (c) LOSS OF DATA OR COST OF PROCUREMENT OF SUBSTITUTE SERVICES
+   (d) BUSINESS INTERRUPTION
+   (e) LOSS OF GOODWILL OR REPUTATION
+
+   This waiver applies regardless of the form of action (contract, tort, negligence, strict liability, or otherwise) and even if advised of the possibility of such damages.
+
+8.3 Basis of Bargain. The parties acknowledge that the limitations in this Section 8 are a fundamental basis of the bargain and reflect a reasonable allocation of risk. Fees are set in reliance on these limitations.
+
+8.4 Multiple Claims. Multiple claims shall not expand the liability cap. The cap applies to all claims in the aggregate.
+
+8.5 Excluded Claims. Liability limitations do not apply to:
+   (a) Either party's indemnification obligations under Section 9
+   (b) Either party's breach of confidentiality obligations
+   (c) Gross negligence or willful misconduct
+   (d) Fraud or fraudulent misrepresentation
+   (e) Death or personal injury caused by negligence
+   (f) Obligations that cannot be limited by law
+   (g) Either party's infringement of the other's intellectual property
+
+9. INDEMNIFICATION
+
+9.1 Provider Indemnification. Provider shall indemnify, defend, and hold harmless Client, its affiliates, officers, directors, employees, and agents from and against any claims, damages, losses, liabilities, costs, and expenses (including reasonable attorneys' fees) arising from:
+   (a) Provider's breach of this Agreement
+   (b) Provider's negligence or willful misconduct
+   (c) Claims that Custom Work Product infringes third-party intellectual property rights
+   (d) Personal injury or property damage caused by Provider's personnel
+   (e) Provider's violation of applicable laws
+
+9.2 Client Indemnification. Client shall indemnify, defend, and hold harmless Provider, its affiliates, officers, directors, employees, and agents from and against any claims, damages, losses, liabilities, costs, and expenses (including reasonable attorneys' fees) arising from:
+   (a) Client's breach of this Agreement
+   (b) Client's use of deliverables in violation of this Agreement or applicable law
+   (c) Claims that Client materials infringe third-party intellectual property rights
+   (d) Client's violation of applicable laws
+   (e) Claims by Client's customers or end users
+
+9.3 Indemnification Procedure. The indemnified party shall:
+   (a) Promptly notify the indemnifying party in writing of any claim
+   (b) Provide reasonable cooperation in defense of claim
+   (c) Allow indemnifying party to control defense and settlement
+
+   Indemnifying party shall not settle any claim without indemnified party's written consent (not to be unreasonably withheld) if settlement:
+   - Imposes obligations on indemnified party
+   - Requires admission of liability
+   - Does not include full release
+
+9.4 IP Infringement Remedies. If Custom Work Product is held or believed to infringe, Provider may, at its option and expense:
+   (a) Obtain the right for Client to continue using it
+   (b) Replace or modify it to be non-infringing
+   (c) If neither (a) nor (b) is commercially reasonable, terminate the license and refund fees paid for infringing work
+
+   This Section 9.4 states Provider's entire liability and Client's exclusive remedy for infringement claims.
+
+10. DATA PROTECTION AND SECURITY
+
+10.1 Data Processing. If Provider processes personal data on behalf of Client, the parties shall execute a Data Processing Addendum ("DPA") in compliance with applicable privacy laws (GDPR, CCPA, etc.).
+
+10.2 Security Measures. Provider shall implement and maintain reasonable administrative, physical, and technical safeguards to protect Client data, including:
+   - Encryption of data in transit (TLS 1.2+) and at rest (AES-256)
+   - Access controls and authentication (multi-factor authentication)
+   - Regular security assessments and penetration testing
+   - Employee security training
+   - Incident response plan
+   - SOC 2 Type II compliance (renewed annually)
+
+10.3 Security Breach. Provider shall notify Client within twenty-four (24) hours of discovering any security breach affecting Client data. Provider shall:
+   - Investigate and contain the breach
+   - Provide Client with detailed incident report
+   - Cooperate with Client's investigation
+   - Implement measures to prevent recurrence
+
+10.4 Data Backup. Provider shall maintain regular backups of Client data in production environments, with recovery point objective (RPO) of 24 hours and recovery time objective (RTO) of 4 hours.
+
+10.5 Data Location. Client data shall be stored in data centers located in the United States unless otherwise specified in the SOW.
+
+10.6 Subprocessors. Provider may use subcontractors to process Client data only with Client's prior written approval. Provider remains liable for subcontractors' compliance with this Agreement.
+
+10.7 Data Return/Deletion. Upon termination, Provider shall, at Client's option:
+   (a) Return all Client data in commonly used electronic format, or
+   (b) Securely delete all Client data and provide certification of deletion
+
+11. GENERAL PROVISIONS
+
+11.1 Relationship of Parties. The parties are independent contractors. This Agreement does not create a partnership, joint venture, employment, or agency relationship. Neither party may bind the other or make commitments on the other's behalf.
+
+11.2 Non-Solicitation. During the term and for eighteen (18) months after termination, neither party shall solicit for employment or hire any employee or contractor of the other party who was involved in this Agreement, without prior written consent. If breached, the breaching party shall pay the other party an amount equal to twelve (12) months' compensation of the solicited individual.
+
+11.3 Insurance. Provider shall maintain:
+   - Commercial General Liability: $2,000,000 per occurrence, $4,000,000 aggregate
+   - Professional Liability (E&O): $5,000,000 per claim, $10,000,000 aggregate
+   - Cyber Liability: $3,000,000 per claim
+   - Workers' Compensation: As required by law
+
+   Provider shall provide certificates of insurance upon request and name Client as additional insured where applicable.
+
+11.4 Compliance with Laws. Each party shall comply with all applicable laws, regulations, and industry standards, including:
+   - Export control laws
+   - Anti-corruption laws (FCPA, UK Bribery Act)
+   - Labor and employment laws
+   - Environmental laws
+   - Data protection laws (GDPR, CCPA)
+
+11.5 Entire Agreement. This Agreement, together with all SOWs and referenced policies, constitutes the entire agreement and supersedes all prior negotiations, understandings, and agreements. No other representations or warranties have been made.
+
+11.6 Amendments. This Agreement may be amended only by written instrument signed by authorized representatives of both parties. SOWs may be amended by written change orders.
+
+11.7 Assignment. Neither party may assign this Agreement without prior written consent of the other party, except:
+   - Assignment to an affiliate
+   - Assignment in connection with merger, acquisition, or sale of substantially all assets
+   
+   Any unauthorized assignment is void. This Agreement binds and benefits the parties' successors and permitted assigns.
+
+11.8 Notices. All notices must be in writing and delivered by:
+   - Email (with read receipt)
+   - Certified mail, return receipt requested
+   - Recognized overnight courier
+
+   Notices to Provider: contracts@quantumdigital.sg
+   Notices to Client: procurement@globalretail.com
+
+   Notices are effective upon receipt.
+
+11.9 Force Majeure. Neither party is liable for failure to perform due to causes beyond reasonable control, including: acts of God, natural disasters, war, terrorism, riots, civil unrest, government actions, epidemics, pandemics, labor disputes, internet or telecommunications failures, cyberattacks, or power outages. The affected party shall promptly notify the other and use reasonable efforts to mitigate impact. If force majeure continues for more than ninety (90) days, either party may terminate affected SOWs.
+
+11.10 Governing Law. This Agreement is governed by the laws of the State of New York, United States, without regard to conflict of law principles.
+
+11.11 Dispute Resolution.
+   (a) Negotiation: Disputes shall first be escalated to senior executives (VP level or above) who shall meet in person or via videoconference within fifteen (15) days to attempt resolution.
+   
+   (b) Mediation: If negotiation fails, parties shall submit the dispute to non-binding mediation in New York City under the rules of the American Arbitration Association (AAA). Each party bears half the mediation costs.
+   
+   (c) Arbitration: If mediation fails within thirty (30) days, the dispute shall be resolved by binding arbitration under AAA Commercial Arbitration Rules. Arbitration shall be conducted in New York City by three (3) arbitrators. The prevailing party may recover reasonable attorneys' fees and costs. Judgment on the award may be entered in any court of competent jurisdiction.
+   
+   (d) Equitable Relief: Nothing herein prevents either party from seeking injunctive relief in court for breaches of confidentiality, intellectual property, or other matters requiring immediate relief.
+
+11.12 Jurisdiction. To the extent court proceedings are necessary, the parties consent to exclusive jurisdiction of state and federal courts located in New York County, New York.
+
+11.13 Waiver. No waiver of any provision is effective unless in writing signed by the waiving party. Waiver of one breach does not waive other breaches.
+
+11.14 Severability. If any provision is held invalid or unenforceable, it shall be modified to the minimum extent necessary to make it enforceable, or if not possible, severed, and the remaining provisions remain in full force and effect.
+
+11.15 Counterparts. This Agreement may be executed in counterparts (including electronic signatures and PDF), each of which is deemed an original and all of which together constitute one agreement. Electronic signatures have the same effect as original signatures.
+
+11.16 Headings. Headings are for convenience only and do not affect interpretation.
+
+11.17 Publicity. Neither party shall issue press releases or public announcements regarding this Agreement without prior written approval of the other party.
+
+11.18 Survival. The following sections survive termination: Section 3 (Fees - for amounts owed), Section 5 (Intellectual Property), Section 6 (Confidentiality), Section 7 (Warranties - for warranty period), Section 8 (Limitation of Liability), Section 9 (Indemnification), Section 10 (Data Protection), and Section 11 (General Provisions).
+
+IN WITNESS WHEREOF, the parties have executed this Master Service Agreement as of the Effective Date.
+
+PROVIDER:
+QUANTUM DIGITAL SOLUTIONS LTD.
+
+By: /s/ Dr. Rajesh Kumar
+Name: Dr. Rajesh Kumar
+Title: Chief Executive Officer
+Date: November 1, 2025
+
+CLIENT:
+GLOBALRETAIL CORPORATION
+
+By: /s/ Jennifer Martinez
+Name: Jennifer Martinez
+Title: Chief Technology Officer
+Date: November 1, 2025
+
+ATTACHMENT A: INITIAL STATEMENT OF WORK
+(To be executed separately)

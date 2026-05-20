@@ -1,0 +1,200 @@
+MUTUAL NON-DISCLOSURE AGREEMENT
+
+This Mutual Non-Disclosure Agreement ("Agreement") is made and entered into as of March 10, 2025 ("Effective Date"), by and between:
+
+PARTY A: Quantum Innovations LLC, a California limited liability company, having its principal place of business at 2750 Sand Hill Road, Menlo Park, CA 94025 ("Quantum")
+
+AND
+
+PARTY B: NextGen Robotics Corporation, a Delaware corporation, having its principal place of business at 100 Technology Square, Cambridge, MA 02139 ("NextGen")
+
+(Each individually referred to as a "Party" and collectively as the "Parties")
+
+RECITALS
+
+WHEREAS, the Parties wish to explore a potential business relationship concerning the development and commercialization of advanced artificial intelligence systems for autonomous robotics applications ("Purpose");
+
+WHEREAS, in connection with the Purpose, each Party may disclose to the other Party certain confidential and proprietary information;
+
+WHEREAS, the Parties desire to protect the confidentiality of such information;
+
+NOW, THEREFORE, in consideration of the mutual covenants and agreements contained herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties agree as follows:
+
+1. CONFIDENTIAL INFORMATION
+
+1.1 Definition: "Confidential Information" means all information, whether written, oral, electronic, visual, or in any other form, disclosed by one Party (the "Disclosing Party") to the other Party (the "Receiving Party"), including but not limited to:
+
+    (a) Technical Information: algorithms, source code, object code, software, specifications, designs, architectures, prototypes, models, techniques, processes, procedures, formulae, discoveries, inventions, improvements, concepts, ideas, and know-how;
+
+    (b) Business Information: business plans, strategies, methods, customer lists, supplier lists, pricing information, cost data, market studies, business relationships, financial information, projections, and forecasts;
+
+    (c) Product Information: product plans, product designs, product roadmaps, marketing plans, distribution methods, and sales strategies;
+
+    (d) Research and Development: research plans, research data, experimental results, test results, and development activities;
+
+    (e) Personal Information: employee information, contractor information, and consultant information, to the extent permitted by applicable privacy laws.
+
+1.2 Marking: Confidential Information disclosed in tangible form shall be marked "Confidential," "Proprietary," or with a similar designation. Confidential Information disclosed orally shall be identified as confidential at the time of disclosure and confirmed in writing within 30 days.
+
+1.3 Deemed Confidential: Notwithstanding the marking requirements in Section 1.2, the following shall be deemed Confidential Information regardless of whether marked:
+    (a) Source code and technical documentation;
+    (b) Trade secrets as defined under applicable law;
+    (c) Personal data subject to privacy laws;
+    (d) Information disclosed during site visits to either Party's facilities.
+
+2. OBLIGATIONS OF RECEIVING PARTY
+
+2.1 Non-Disclosure: The Receiving Party shall:
+    (a) Hold all Confidential Information in strict confidence;
+    (b) Not disclose Confidential Information to any third party without the prior written consent of the Disclosing Party;
+    (c) Restrict disclosure of Confidential Information to its employees, officers, directors, agents, consultants, and advisors ("Representatives") who have a legitimate need to know for the Purpose and who are bound by confidentiality obligations at least as restrictive as those contained herein;
+    (d) Be responsible for any breach of this Agreement by its Representatives;
+    (e) Take all reasonable precautions to prevent unauthorized disclosure of Confidential Information.
+
+2.2 Standard of Care: The Receiving Party shall protect the Confidential Information using the same degree of care that it uses to protect its own confidential information of similar nature and importance, but in no event less than reasonable care.
+
+2.3 Limited Use: The Receiving Party shall use the Confidential Information solely for the Purpose and for no other purpose whatsoever. The Receiving Party shall not use the Confidential Information for its own benefit or the benefit of any third party.
+
+2.4 No Reverse Engineering: The Receiving Party shall not reverse engineer, disassemble, decompile, or otherwise attempt to derive the source code, structure, or algorithms of any software or technology disclosed as Confidential Information.
+
+2.5 Reproduction: The Receiving Party shall not copy, reproduce, or create derivative works of the Confidential Information except as reasonably necessary for the Purpose. All copies shall be marked as confidential and shall remain the property of the Disclosing Party.
+
+3. EXCEPTIONS
+
+The obligations set forth in Section 2 shall not apply to any information that the Receiving Party can demonstrate by written records:
+
+3.1 Public Domain: Was publicly known and generally available in the public domain at the time of disclosure by the Disclosing Party or becomes publicly known and generally available after disclosure through no action or inaction of the Receiving Party;
+
+3.2 Prior Possession: Was in the Receiving Party's possession prior to disclosure by the Disclosing Party, as evidenced by the Receiving Party's written records;
+
+3.3 Third Party Disclosure: Was rightfully disclosed to the Receiving Party by a third party without restriction on disclosure and without breach of any confidentiality obligation;
+
+3.4 Independent Development: Was independently developed by the Receiving Party without use of or reference to the Disclosing Party's Confidential Information, as evidenced by written records;
+
+3.5 Required Disclosure: Is required to be disclosed by law, regulation, court order, subpoena, or other legal process; provided that the Receiving Party:
+    (a) Promptly notifies the Disclosing Party in writing of such requirement;
+    (b) Cooperates with the Disclosing Party in seeking a protective order or other appropriate remedy;
+    (c) Discloses only that portion of the Confidential Information that is legally required to be disclosed;
+    (d) Uses reasonable efforts to obtain confidential treatment of such Confidential Information.
+
+4. INTELLECTUAL PROPERTY RIGHTS
+
+4.1 Ownership: All Confidential Information shall remain the sole property of the Disclosing Party. No license or other rights in or to any Confidential Information or any patent, copyright, trademark, trade secret, or other intellectual property right is granted or implied by this Agreement.
+
+4.2 No Obligation: Nothing in this Agreement shall obligate either Party to:
+    (a) Disclose any particular Confidential Information;
+    (b) Proceed with any proposed transaction or relationship;
+    (c) Refrain from entering into any transaction or relationship with any third party.
+
+4.3 Improvements: Any improvements, modifications, or derivative works created by the Receiving Party based on or incorporating the Disclosing Party's Confidential Information shall be owned by the Disclosing Party and shall be deemed Confidential Information of the Disclosing Party.
+
+5. RETURN OR DESTRUCTION
+
+5.1 Upon Request: Upon written request by the Disclosing Party or upon termination of this Agreement, the Receiving Party shall, at the Disclosing Party's option:
+    (a) Promptly return to the Disclosing Party all materials containing or reflecting Confidential Information; or
+    (b) Destroy all materials containing or reflecting Confidential Information and certify such destruction in writing.
+
+5.2 Retention: Notwithstanding Section 5.1, the Receiving Party may retain:
+    (a) One copy of Confidential Information in its legal files for the sole purpose of determining its obligations under this Agreement;
+    (b) Confidential Information stored in automatic computer system backups, provided that such information remains subject to the confidentiality obligations herein.
+
+6. TERM AND TERMINATION
+
+6.1 Term: This Agreement shall commence on the Effective Date and continue for a period of two (2) years, unless earlier terminated by either Party upon 30 days' prior written notice to the other Party.
+
+6.2 Survival: The obligations of confidentiality and non-use set forth in this Agreement shall survive termination and shall continue for a period of five (5) years from the date of termination; provided, however, that obligations with respect to trade secrets shall continue for so long as such information remains a trade secret under applicable law.
+
+7. REMEDIES
+
+7.1 Injunctive Relief: The Receiving Party acknowledges that any breach of this Agreement may cause irreparable harm to the Disclosing Party for which monetary damages may be an inadequate remedy. Accordingly, in addition to any other remedies available at law or in equity, the Disclosing Party shall be entitled to seek injunctive relief to enforce the provisions of this Agreement without the necessity of proving actual damages or posting a bond.
+
+7.2 Cumulative Remedies: All remedies provided in this Agreement are cumulative and not exclusive, and the exercise of any remedy shall not preclude the exercise of any other remedy.
+
+7.3 Costs and Fees: In any action to enforce this Agreement, the prevailing Party shall be entitled to recover its reasonable attorneys' fees and costs.
+
+8. REPRESENTATIONS AND WARRANTIES
+
+8.1 By Each Party: Each Party represents and warrants that:
+    (a) It has the full right, power, and authority to enter into and perform its obligations under this Agreement;
+    (b) The execution, delivery, and performance of this Agreement does not conflict with any other agreement or obligation to which it is a party;
+    (c) It will comply with all applicable laws, rules, and regulations in connection with this Agreement;
+    (d) It has the right to disclose the Confidential Information disclosed hereunder without violating any agreement with or rights of any third party.
+
+8.2 Disclaimer: EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, ALL CONFIDENTIAL INFORMATION IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, OR NON-INFRINGEMENT.
+
+9. LIMITATION OF LIABILITY
+
+9.1 DISCLAIMER OF DAMAGES: IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER PARTY FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO LOSS OF PROFITS, LOSS OF BUSINESS, OR LOSS OF DATA, ARISING OUT OF OR RELATING TO THIS AGREEMENT, REGARDLESS OF THE LEGAL THEORY UNDER WHICH SUCH LIABILITY MAY BE ASSERTED, EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+9.2 Maximum Liability: EXCEPT FOR BREACHES OF CONFIDENTIALITY OBLIGATIONS, NEITHER PARTY'S TOTAL LIABILITY ARISING OUT OF OR RELATING TO THIS AGREEMENT SHALL EXCEED $100,000 USD.
+
+10. DATA PROTECTION AND PRIVACY
+
+10.1 Compliance: Both Parties shall comply with all applicable data protection and privacy laws, including without limitation the General Data Protection Regulation (GDPR), the California Consumer Privacy Act (CCPA), and any other applicable state, federal, or international privacy laws.
+
+10.2 Personal Data: To the extent that any Confidential Information includes personal data or personally identifiable information:
+    (a) Such information shall be processed in accordance with applicable privacy laws;
+    (b) The Receiving Party shall implement appropriate technical and organizational measures to protect such information;
+    (c) The Receiving Party shall not transfer such information outside the country of origin without ensuring adequate protection as required by applicable law;
+    (d) Upon request, the Parties shall execute a separate Data Processing Agreement if required by applicable law.
+
+11. EXPORT CONTROLS
+
+11.1 Compliance: Each Party acknowledges that the Confidential Information may be subject to export control laws and regulations, including the U.S. Export Administration Regulations and the International Traffic in Arms Regulations.
+
+11.2 Obligations: The Receiving Party agrees to:
+    (a) Comply with all applicable export control laws and regulations;
+    (b) Not export, re-export, or transfer any Confidential Information to any prohibited country, entity, or person without obtaining required government authorizations;
+    (c) Maintain accurate records of the destination and end-use of exported information.
+
+12. GENERAL PROVISIONS
+
+12.1 Entire Agreement: This Agreement constitutes the entire agreement between the Parties regarding the subject matter hereof and supersedes all prior and contemporaneous agreements, understandings, negotiations, and discussions, whether oral or written, between the Parties.
+
+12.2 Amendments: This Agreement may not be amended, modified, or supplemented except by a written instrument signed by authorized representatives of both Parties.
+
+12.3 Waiver: No waiver of any provision of this Agreement shall be effective unless in writing and signed by the Party against whom such waiver is sought to be enforced. No waiver shall be deemed a continuing waiver or a waiver of any other provision.
+
+12.4 Severability: If any provision of this Agreement is held by a court of competent jurisdiction to be invalid, illegal, or unenforceable, the remaining provisions shall continue in full force and effect, and such provision shall be reformed only to the extent necessary to make it enforceable.
+
+12.5 Assignment: Neither Party may assign this Agreement or any rights or obligations hereunder without the prior written consent of the other Party, except that either Party may assign this Agreement to a successor in connection with a merger, acquisition, or sale of all or substantially all of its assets, provided that the assignee agrees in writing to be bound by the terms of this Agreement.
+
+12.6 Successors and Assigns: This Agreement shall be binding upon and inure to the benefit of the Parties and their respective successors and permitted assigns.
+
+12.7 Independent Contractors: The Parties are independent contractors. Nothing in this Agreement shall be construed to create a partnership, joint venture, agency, employment, or fiduciary relationship between the Parties.
+
+12.8 Governing Law: This Agreement shall be governed by and construed in accordance with the laws of the State of California, without regard to its conflict of laws principles.
+
+12.9 Jurisdiction and Venue: Any dispute arising out of or relating to this Agreement shall be subject to the exclusive jurisdiction of the state and federal courts located in Santa Clara County, California, and each Party hereby irrevocably consents to the jurisdiction and venue of such courts.
+
+12.10 Notices: All notices, requests, and other communications under this Agreement shall be in writing and shall be deemed given when:
+    (a) Delivered personally;
+    (b) Sent by confirmed electronic mail (with hard copy to follow);
+    (c) Delivered by nationally recognized overnight courier service; or
+    (d) Mailed by certified or registered mail, return receipt requested.
+
+Notices shall be sent to the addresses set forth above or to such other address as either Party may designate in writing from time to time.
+
+12.11 Counterparts: This Agreement may be executed in one or more counterparts, each of which shall be deemed an original and all of which together shall constitute one and the same instrument. Electronic signatures shall be deemed original signatures for all purposes.
+
+12.12 Interpretation: The section headings in this Agreement are for convenience only and shall not affect the interpretation of this Agreement. The terms "include," "includes," and "including" shall be deemed to be followed by "without limitation." The words "herein," "hereof," and "hereunder" refer to this Agreement as a whole.
+
+12.13 Force Majeure: Neither Party shall be liable for any failure or delay in performing its obligations under this Agreement to the extent that such failure or delay is caused by circumstances beyond its reasonable control, including but not limited to acts of God, war, terrorism, civil unrest, labor disputes, pandemics, government actions, or failures of telecommunications or Internet service providers.
+
+12.14 Publicity: Neither Party shall issue any press release or make any public announcement regarding this Agreement or the relationship between the Parties without the prior written consent of the other Party, except as may be required by applicable law or regulations.
+
+IN WITNESS WHEREOF, the Parties have executed this Mutual Non-Disclosure Agreement as of the Effective Date.
+
+QUANTUM INNOVATIONS LLC
+
+By: /s/ Dr. Emily Chen
+Name: Dr. Emily Chen
+Title: Chief Executive Officer
+Date: March 10, 2025
+
+NEXTGEN ROBOTICS CORPORATION
+
+By: /s/ Michael Rodriguez
+Name: Michael Rodriguez  
+Title: Chief Technology Officer
+Date: March 10, 2025

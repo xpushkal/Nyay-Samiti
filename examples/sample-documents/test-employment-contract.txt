@@ -1,0 +1,38 @@
+EMPLOYMENT AGREEMENT
+
+This Employment Agreement ("Agreement") is entered into on October 26, 2025, between Tech Solutions Inc. ("Employer") and John Doe ("Employee").
+
+TERMS AND CONDITIONS:
+
+1. POSITION AND DUTIES
+The Employee shall serve as Senior Software Engineer and shall perform all duties as assigned by the Employer. The Employee agrees to devote their full-time attention and efforts to the business of the Employer.
+
+2. COMPENSATION
+The Employer shall pay the Employee an annual salary of $120,000, payable in accordance with the Employer's standard payroll practices. The Employee shall be eligible for annual performance bonuses at the discretion of the Employer.
+
+3. BENEFITS
+The Employee shall be entitled to participate in all employee benefit plans maintained by the Employer, including health insurance, retirement plans, and paid time off, subject to the terms and conditions of such plans.
+
+4. CONFIDENTIALITY
+The Employee acknowledges that during employment, they will have access to confidential information and trade secrets of the Employer. The Employee agrees to maintain the confidentiality of such information both during and after employment.
+
+5. NON-COMPETE CLAUSE
+The Employee agrees that for a period of twelve (12) months following termination of employment, they shall not engage in any business that directly competes with the Employer within a 50-mile radius of the Employer's principal place of business.
+
+6. TERMINATION
+Either party may terminate this Agreement with thirty (30) days written notice. The Employer may terminate this Agreement immediately for cause, including but not limited to misconduct, violation of company policies, or failure to perform duties.
+
+7. INDEMNIFICATION
+The Employee agrees to indemnify and hold harmless the Employer from and against any and all claims, demands, losses, costs, expenses, obligations, liabilities, damages, recoveries, and deficiencies, including interest, penalties, and reasonable attorneys' fees.
+
+8. GOVERNING LAW
+This Agreement shall be governed by and construed in accordance with the laws of the State of California, without regard to its conflict of law provisions.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+Employer: Tech Solutions Inc.
+By: Jane Smith, CEO
+
+Employee: John Doe
+Signature: ___________________
+Date: October 26, 2025

@@ -1,0 +1,237 @@
+SOFTWARE LICENSE AND SERVICES AGREEMENT
+
+This Software License and Services Agreement ("Agreement") is entered into as of January 15, 2025 ("Effective Date"), by and between:
+
+LICENSOR: TechVision Solutions Inc., a Delaware corporation with principal offices at 1500 Innovation Drive, San Francisco, CA 94105 ("Licensor")
+
+LICENSEE: Global Enterprises Ltd., a United Kingdom company with registered offices at 25 Fleet Street, London, EC4Y 1AA, United Kingdom ("Licensee")
+
+WHEREAS, Licensor has developed proprietary software known as "CloudMaster Enterprise Platform" ("Software");
+
+WHEREAS, Licensee desires to license the Software and obtain related services from Licensor;
+
+NOW, THEREFORE, in consideration of the mutual covenants and agreements hereinafter set forth, the parties agree as follows:
+
+1. DEFINITIONS
+
+1.1 "Authorized Users" means Licensee's employees, contractors, and consultants who are authorized to use the Software, not to exceed 500 users.
+
+1.2 "Confidential Information" means all non-public information disclosed by either party to the other, including but not limited to technical data, trade secrets, know-how, research, product plans, services, customer lists, and financial information.
+
+1.3 "Documentation" means the user manuals, technical documentation, and other written materials provided by Licensor relating to the Software.
+
+1.4 "Intellectual Property Rights" means all patents, copyrights, trademarks, trade secrets, and other intellectual property rights recognized in any jurisdiction worldwide.
+
+1.5 "Support Services" means technical support and maintenance services as described in Schedule A attached hereto.
+
+2. LICENSE GRANT
+
+2.1 License Scope: Subject to the terms and conditions of this Agreement, Licensor hereby grants to Licensee a non-exclusive, non-transferable, worldwide license to use the Software for Licensee's internal business operations only.
+
+2.2 Limitations: Licensee shall not, and shall not permit any third party to:
+    (a) Reverse engineer, decompile, or disassemble the Software;
+    (b) Modify, adapt, translate, or create derivative works based on the Software;
+    (c) Rent, lease, loan, sublicense, or otherwise transfer the Software to any third party;
+    (d) Remove or alter any proprietary notices or labels on the Software;
+    (e) Use the Software for any unlawful purpose or in any manner inconsistent with this Agreement.
+
+2.3 Reservation of Rights: Licensor retains all right, title, and interest in and to the Software, including all Intellectual Property Rights therein. No rights are granted to Licensee except as expressly set forth in this Agreement.
+
+3. FEES AND PAYMENT TERMS
+
+3.1 License Fees: Licensee shall pay to Licensor the following fees:
+    (a) Initial License Fee: $250,000 (Two Hundred Fifty Thousand US Dollars), payable within 30 days of the Effective Date;
+    (b) Annual Maintenance Fee: $75,000 (Seventy-Five Thousand US Dollars), payable annually in advance commencing on the first anniversary of the Effective Date;
+    (c) Support Services Fee: As set forth in Schedule A, payable quarterly in advance.
+
+3.2 Payment Terms: All payments shall be made in US Dollars by wire transfer to the bank account specified by Licensor. Payments not received within 30 days of the due date shall accrue interest at the rate of 1.5% per month or the maximum rate permitted by law, whichever is less.
+
+3.3 Taxes: All fees are exclusive of taxes. Licensee shall be responsible for all sales, use, VAT, and other taxes (excluding taxes based on Licensor's net income), duties, and governmental charges.
+
+4. TERM AND TERMINATION
+
+4.1 Term: This Agreement shall commence on the Effective Date and continue for an initial term of three (3) years ("Initial Term"), unless earlier terminated as provided herein. Upon expiration of the Initial Term, this Agreement shall automatically renew for successive one (1) year periods ("Renewal Terms") unless either party provides written notice of non-renewal at least 90 days prior to the end of the then-current term.
+
+4.2 Termination for Cause: Either party may terminate this Agreement upon written notice if the other party:
+    (a) Materially breaches this Agreement and fails to cure such breach within 30 days after receiving written notice thereof;
+    (b) Becomes insolvent, files for bankruptcy, or makes an assignment for the benefit of creditors;
+    (c) Ceases to conduct business in the normal course.
+
+4.3 Effect of Termination: Upon termination or expiration of this Agreement:
+    (a) All licenses granted hereunder shall immediately terminate;
+    (b) Licensee shall immediately cease all use of the Software and Documentation;
+    (c) Licensee shall return or destroy all copies of the Software and Documentation in its possession;
+    (d) All payment obligations accrued prior to termination shall survive and remain due and payable.
+
+5. CONFIDENTIALITY
+
+5.1 Protection of Confidential Information: Each party agrees to:
+    (a) Maintain the confidentiality of the other party's Confidential Information;
+    (b) Use the same degree of care to protect such Confidential Information as it uses to protect its own confidential information, but in no event less than reasonable care;
+    (c) Not disclose such Confidential Information to any third party without the prior written consent of the disclosing party;
+    (d) Use such Confidential Information solely for the purposes contemplated by this Agreement.
+
+5.2 Exceptions: The confidentiality obligations set forth in Section 5.1 shall not apply to information that:
+    (a) Was publicly known at the time of disclosure;
+    (b) Becomes publicly known through no breach of this Agreement by the receiving party;
+    (c) Is rightfully received from a third party without breach of any confidentiality obligation;
+    (d) Is independently developed by the receiving party without use of the disclosing party's Confidential Information;
+    (e) Is required to be disclosed by law or court order, provided that the receiving party provides prompt notice to the disclosing party.
+
+5.3 Duration: The obligations set forth in this Section 5 shall survive for five (5) years following the termination or expiration of this Agreement.
+
+6. WARRANTIES AND DISCLAIMERS
+
+6.1 Limited Warranty: Licensor warrants that for a period of 90 days from the Effective Date ("Warranty Period"):
+    (a) The Software will perform substantially in accordance with the Documentation;
+    (b) Licensor has the right to grant the licenses set forth herein;
+    (c) The Software does not infringe any third party's Intellectual Property Rights.
+
+6.2 Warranty Remedies: Licensee's sole and exclusive remedy for breach of the limited warranty set forth in Section 6.1 shall be, at Licensor's option, either:
+    (a) Correction of defects in the Software; or
+    (b) Refund of the license fees paid by Licensee.
+
+6.3 DISCLAIMER: EXCEPT AS EXPRESSLY SET FORTH IN SECTION 6.1, THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. LICENSOR DISCLAIMS ALL OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+7. LIMITATION OF LIABILITY
+
+7.1 CONSEQUENTIAL DAMAGES WAIVER: IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO LOSS OF PROFITS, LOSS OF DATA, OR BUSINESS INTERRUPTION, ARISING OUT OF OR RELATING TO THIS AGREEMENT, WHETHER BASED ON CONTRACT, TORT, STRICT LIABILITY, OR ANY OTHER LEGAL THEORY, EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+7.2 LIMITATION OF DIRECT DAMAGES: EXCEPT FOR BREACHES OF CONFIDENTIALITY OBLIGATIONS OR INTELLECTUAL PROPERTY INFRINGEMENT, EACH PARTY'S TOTAL CUMULATIVE LIABILITY ARISING OUT OF OR RELATING TO THIS AGREEMENT SHALL NOT EXCEED THE TOTAL FEES PAID BY LICENSEE TO LICENSOR DURING THE TWELVE (12) MONTHS IMMEDIATELY PRECEDING THE EVENT GIVING RISE TO LIABILITY.
+
+8. INDEMNIFICATION
+
+8.1 By Licensor: Licensor shall indemnify, defend, and hold harmless Licensee from and against any claims, damages, losses, and expenses (including reasonable attorneys' fees) arising from claims that the Software infringes any third party's Intellectual Property Rights, provided that:
+    (a) Licensee promptly notifies Licensor in writing of such claim;
+    (b) Licensor has sole control over the defense and settlement of such claim;
+    (c) Licensee reasonably cooperates with Licensor in the defense of such claim.
+
+8.2 By Licensee: Licensee shall indemnify, defend, and hold harmless Licensor from and against any claims, damages, losses, and expenses (including reasonable attorneys' fees) arising from:
+    (a) Licensee's breach of this Agreement;
+    (b) Licensee's use of the Software in violation of applicable laws or regulations;
+    (c) Unauthorized modifications to the Software by Licensee.
+
+9. DATA PROTECTION AND PRIVACY
+
+9.1 Compliance: Both parties shall comply with all applicable data protection and privacy laws, including but not limited to the General Data Protection Regulation (GDPR) and the California Consumer Privacy Act (CCPA).
+
+9.2 Data Processing: To the extent that Licensor processes any personal data on behalf of Licensee in connection with the Software, the parties agree to execute a separate Data Processing Agreement in accordance with applicable law.
+
+9.3 Security: Licensor shall implement and maintain appropriate technical and organizational security measures to protect against unauthorized access, disclosure, alteration, or destruction of data processed through the Software.
+
+10. EXPORT COMPLIANCE
+
+Licensee acknowledges that the Software may be subject to export control laws and regulations. Licensee agrees to comply with all applicable export control laws and regulations, including those of the United States, and shall not export, re-export, or transfer the Software to any prohibited country, entity, or person without obtaining required government authorizations.
+
+11. AUDIT RIGHTS
+
+Licensor shall have the right, upon 30 days' prior written notice and no more than once per calendar year, to audit Licensee's use of the Software to verify compliance with this Agreement. Such audits shall be conducted during normal business hours and shall not unreasonably interfere with Licensee's business operations. If an audit reveals that Licensee has underpaid fees by more than 5%, Licensee shall reimburse Licensor for the cost of the audit in addition to paying any underpaid fees.
+
+12. GENERAL PROVISIONS
+
+12.1 Entire Agreement: This Agreement, including all Schedules attached hereto, constitutes the entire agreement between the parties regarding the subject matter hereof and supersedes all prior or contemporaneous agreements, understandings, and communications, whether written or oral.
+
+12.2 Amendments: No amendment, modification, or waiver of any provision of this Agreement shall be effective unless in writing and signed by both parties.
+
+12.3 Assignment: Neither party may assign this Agreement without the prior written consent of the other party, except that either party may assign this Agreement to a successor in connection with a merger, acquisition, or sale of all or substantially all of its assets.
+
+12.4 Governing Law: This Agreement shall be governed by and construed in accordance with the laws of the State of California, without regard to its conflict of laws principles.
+
+12.5 Dispute Resolution: Any dispute arising out of or relating to this Agreement shall be resolved as follows:
+    (a) The parties shall first attempt to resolve the dispute through good faith negotiations;
+    (b) If negotiations fail within 30 days, the parties agree to participate in mediation administered by JAMS in San Francisco, California;
+    (c) If mediation fails within 60 days, the dispute shall be resolved by binding arbitration administered by JAMS in accordance with its Comprehensive Arbitration Rules and Procedures;
+    (d) The arbitration shall be conducted in San Francisco, California, and judgment on the award may be entered in any court having jurisdiction.
+
+12.6 Severability: If any provision of this Agreement is held to be invalid or unenforceable, the remaining provisions shall continue in full force and effect.
+
+12.7 Waiver: No waiver of any provision of this Agreement shall be deemed or shall constitute a waiver of any other provision, nor shall any waiver constitute a continuing waiver.
+
+12.8 Notices: All notices required or permitted under this Agreement shall be in writing and shall be deemed given when:
+    (a) Delivered personally;
+    (b) Sent by confirmed facsimile or email;
+    (c) Sent by certified or registered mail, return receipt requested;
+    (d) Delivered by an internationally recognized overnight courier service.
+
+Notices to Licensor shall be sent to:
+TechVision Solutions Inc.
+Attn: Legal Department
+1500 Innovation Drive
+San Francisco, CA 94105
+Email: legal@techvision.com
+
+Notices to Licensee shall be sent to:
+Global Enterprises Ltd.
+Attn: Chief Technology Officer
+25 Fleet Street
+London, EC4Y 1AA, United Kingdom
+Email: cto@globalenterprises.co.uk
+
+12.9 Force Majeure: Neither party shall be liable for any failure or delay in performance under this Agreement due to causes beyond its reasonable control, including but not limited to acts of God, war, terrorism, riots, embargoes, acts of civil or military authorities, fire, floods, accidents, pandemics, strikes, or shortages of transportation facilities, fuel, energy, labor, or materials.
+
+12.10 Independent Contractors: The parties are independent contractors. Nothing in this Agreement shall be construed to create a partnership, joint venture, agency, or employment relationship between the parties.
+
+12.11 Survival: Sections 3 (Fees and Payment Terms with respect to accrued obligations), 5 (Confidentiality), 6.3 (Disclaimer), 7 (Limitation of Liability), 8 (Indemnification), and 12 (General Provisions) shall survive termination or expiration of this Agreement.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.
+
+LICENSOR:
+TechVision Solutions Inc.
+
+By: /s/ Sarah Mitchell
+Name: Sarah Mitchell
+Title: Chief Executive Officer
+Date: January 15, 2025
+
+LICENSEE:
+Global Enterprises Ltd.
+
+By: /s/ James Thompson
+Name: James Thompson
+Title: Chief Technology Officer
+Date: January 15, 2025
+
+---
+
+SCHEDULE A
+SUPPORT SERVICES
+
+1. SUPPORT TIERS
+
+Premium Support includes:
+- 24/7/365 technical support via phone, email, and chat
+- 2-hour response time for critical issues
+- 8-hour response time for high-priority issues
+- 24-hour response time for normal issues
+- Quarterly on-site technical reviews
+- Access to dedicated support engineer
+- Priority bug fixes and patches
+- Early access to new features and updates
+
+Quarterly Support Fee: $25,000 USD
+
+2. SERVICE LEVEL AGREEMENT
+
+Critical Issues (Priority 1): System down or major functionality unavailable
+- Response Time: 2 hours
+- Resolution Target: 8 hours
+
+High Priority Issues (Priority 2): Significant functionality impaired
+- Response Time: 8 hours
+- Resolution Target: 48 hours
+
+Normal Issues (Priority 3): Minor functionality issues or questions
+- Response Time: 24 hours
+- Resolution Target: 5 business days
+
+3. MAINTENANCE WINDOWS
+
+Scheduled maintenance: First Sunday of each month, 02:00-06:00 UTC
+Emergency maintenance: As needed with 4 hours advance notice when possible
+
+4. ESCALATION PROCEDURES
+
+Level 1: Support Engineer
+Level 2: Senior Support Engineer (escalation after 4 hours)
+Level 3: Engineering Manager (escalation after 12 hours)
+Level 4: VP of Engineering (escalation after 24 hours)

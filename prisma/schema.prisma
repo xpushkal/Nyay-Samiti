@@ -1,0 +1,39 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Document {
+  id          String   @id @default(cuid())
+  name        String
+  content     String?
+  contentType String   @default("text/plain")
+  size        Int
+  uploadedAt  DateTime @default(now())
+  
+  analyses    Analysis[]
+}
+
+model Analysis {
+  id            String   @id @default(cuid())
+  documentId    String
+  document      Document @relation(fields: [documentId], references: [id], onDelete: Cascade)
+  
+  status        String   @default("pending") // pending, processing, completed, failed
+  progress      Int      @default(0)
+  results       Json?
+  error         String?
+  
+  startedAt     DateTime @default(now())
+  completedAt   DateTime?
+}

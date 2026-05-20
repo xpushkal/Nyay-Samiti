@@ -1,0 +1,524 @@
+REAL ESTATE PURCHASE AND SALE AGREEMENT
+
+This Real Estate Purchase and Sale Agreement ("Agreement") is made and entered into as of November 1, 2025, by and between:
+
+SELLER:
+Victoria Estates Holdings LLC
+A California Limited Liability Company
+Principal Office: 8900 Wilshire Boulevard, Suite 500
+Beverly Hills, California 90211
+Federal Tax ID: 95-4567890
+Representative: Marcus Wellington, Managing Member
+Email: marcus.wellington@victoriaestates.com
+Phone: (310) 555-0199
+("Seller")
+
+BUYER:
+Horizon Investment Group Inc.
+A Delaware Corporation
+Principal Office: 200 Park Avenue, 48th Floor
+New York, New York 10166
+Federal Tax ID: 13-8765432
+Representative: Rachel Chen, Chief Investment Officer
+Email: rachel.chen@horizoninvest.com
+Phone: (212) 555-0234
+("Buyer")
+
+ESCROW AGENT:
+Pacific Coast Title & Escrow Company
+5000 Sunset Boulevard, 3rd Floor
+Los Angeles, California 90027
+Escrow Officer: David Morrison
+Email: david.morrison@pacificcoasttitle.com
+Phone: (323) 555-0187
+Escrow Number: 2025-LA-10983
+
+RECITALS
+
+WHEREAS, Seller is the legal owner of certain real property located in Los Angeles County, California, more particularly described below;
+
+WHEREAS, Buyer desires to purchase said property from Seller;
+
+WHEREAS, the parties wish to set forth the terms and conditions of the purchase and sale;
+
+NOW, THEREFORE, in consideration of the mutual covenants, representations, and agreements herein contained, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties agree as follows:
+
+1. PROPERTY DESCRIPTION
+
+1.1 Real Property. Seller agrees to sell, and Buyer agrees to purchase, the following real property ("Property"):
+
+   Legal Description:
+   Lot 42, Block 7, Tract 12345, in the City of Los Angeles, County of Los Angeles, State of California, as per map recorded in Book 456, Pages 78-82 of Maps, in the Office of the County Recorder of said County.
+
+   Street Address:
+   1850 Century Park West
+   Los Angeles, California 90067
+
+   Assessor's Parcel Number (APN): 4389-021-042
+
+1.2 Property Type. The Property consists of:
+   - Commercial office building ("Building")
+   - Total Building Area: 125,000 square feet (11,613 square meters)
+   - 12-story Class A office tower
+   - Built: 2018
+   - 250 covered parking spaces in underground garage
+   - Total Land Area: 1.85 acres (0.75 hectares)
+
+1.3 Included in Sale. The sale includes:
+   (a) Land and all improvements thereon
+   (b) All fixtures permanently attached to the Property
+   (c) All mechanical, electrical, plumbing, and HVAC systems
+   (d) All elevators, escalators, and building systems
+   (e) All lighting fixtures and window treatments
+   (f) Landscaping and irrigation systems
+   (g) Security systems and access control equipment
+   (h) Fire safety and sprinkler systems
+   (i) Building signage (excluding tenant-specific signage)
+   (j) All transferable permits, licenses, and warranties
+
+1.4 Excluded from Sale. The following are specifically excluded:
+   - Seller's personal property and office equipment
+   - Tenant-owned improvements and fixtures
+   - Trade fixtures installed by tenants
+   - Any items specifically listed in Exhibit C
+
+1.5 Easements and Appurtenances. The sale includes all easements, rights-of-way, privileges, and appurtenances belonging to the Property.
+
+2. PURCHASE PRICE AND PAYMENT TERMS
+
+2.1 Purchase Price. The total purchase price for the Property is Seventy-Two Million Five Hundred Thousand Dollars ($72,500,000.00 USD) ("Purchase Price").
+
+2.2 Payment Schedule. The Purchase Price shall be paid as follows:
+
+   (a) Earnest Money Deposit: $2,000,000.00 USD
+       Due: Within three (3) business days of full execution of this Agreement
+       Held by: Escrow Agent in interest-bearing account
+       
+   (b) Additional Deposit: $3,500,000.00 USD
+       Due: Upon expiration of Due Diligence Period (Day 45)
+       Held by: Escrow Agent in interest-bearing account
+       
+   (c) Balance of Purchase Price: $67,000,000.00 USD
+       Due: At Closing
+       Payment by: Wire transfer of immediately available funds
+
+2.3 Deposit Application. At Closing, all deposits plus accrued interest shall be applied toward the Purchase Price.
+
+2.4 Forfeiture of Deposits. If Buyer defaults after Due Diligence Period, Seller may elect to:
+   (a) Retain all deposits as liquidated damages, or
+   (b) Pursue specific performance or other remedies at law or equity
+
+   If default occurs during Due Diligence Period, Buyer may terminate and receive refund of all deposits.
+
+2.5 Prorations and Adjustments. The following shall be prorated as of the Closing Date:
+   - Real property taxes and assessments
+   - Rent and operating expense reimbursements from tenants
+   - Utility charges
+   - Insurance premiums (if policies are assigned)
+   - Property management fees
+   - Service contracts and maintenance agreements
+   - Association dues (if any)
+
+2.6 Closing Costs. Each party shall pay the following:
+
+   Buyer's Costs:
+   - 50% of escrow fees
+   - Title insurance premium (ALTA owner's policy)
+   - Lender's title insurance (if applicable)
+   - Recording fees for deed
+   - Buyer's attorney fees
+   - Transfer taxes (as allocated below)
+   - Lender fees (if financing)
+   - Survey costs
+   - Environmental assessments
+
+   Seller's Costs:
+   - 50% of escrow fees
+   - Documentary transfer tax (California)
+   - Recording fees to clear title
+   - Seller's attorney fees
+   - Broker commissions (as per separate agreement)
+   - Payoff of existing liens and encumbrances
+   - HOA document fees (if applicable)
+
+2.7 Transfer Taxes. California Documentary Transfer Tax calculated at $1.10 per $1,000 of consideration shall be split equally between Buyer and Seller.
+
+3. DUE DILIGENCE PERIOD
+
+3.1 Duration. Buyer shall have forty-five (45) calendar days from the Effective Date ("Due Diligence Period") to investigate and inspect the Property.
+
+3.2 Seller Disclosures. Within five (5) business days of the Effective Date, Seller shall deliver to Buyer:
+
+   (a) Title Documents
+       - Title commitment or preliminary title report
+       - Copies of all recorded documents affecting title
+       - Survey (if available)
+       
+   (b) Lease Documents
+       - All tenant leases and amendments
+       - Lease abstracts
+       - Rent roll (current within 30 days)
+       - Tenant correspondence files
+       - Security deposit schedule
+       
+   (c) Financial Information
+       - Operating statements (past 3 years)
+       - Current year budget
+       - Property tax bills (past 3 years)
+       - Insurance policies and loss runs (past 5 years)
+       - Capital expenditure records (past 3 years)
+       - Utility bills (past 12 months)
+       
+   (d) Property Information
+       - Property management agreement
+       - Service contracts (HVAC, elevator, security, janitorial, landscaping)
+       - Warranties for roof, HVAC, equipment (if any)
+       - Building plans and specifications (as-built drawings)
+       - Environmental reports (Phase I, Phase II if any)
+       - Engineering reports and inspection reports
+       - Zoning compliance letter
+       - Certificate of occupancy
+       - ADA compliance documentation
+       
+   (e) Litigation and Violations
+       - Notice of any pending or threatened litigation
+       - Code violations or notices from governmental authorities
+       - Insurance claims (past 5 years)
+
+3.3 Buyer's Investigations. Buyer may conduct, at Buyer's sole cost:
+   - Property inspection
+   - Environmental assessment (Phase I ESA, Phase II if needed)
+   - Structural and mechanical systems inspection
+   - Survey
+   - Appraisal
+   - Zoning and land use review
+   - Seismic and geotechnical analysis
+   - Review of all tenant leases
+   - Financial due diligence
+   - Any other investigations Buyer deems necessary
+
+3.4 Access. Seller shall provide Buyer and Buyer's representatives reasonable access to the Property during normal business hours upon 24 hours' notice. Buyer shall not disturb tenants without Seller's consent.
+
+3.5 Confidentiality. Buyer shall keep all information received from Seller confidential and shall not disclose to third parties (except Buyer's advisors, lenders, and investors bound by confidentiality).
+
+3.6 Buyer's Right to Terminate. If Buyer is not satisfied with its due diligence for any reason or no reason, Buyer may terminate this Agreement by written notice to Seller before expiration of Due Diligence Period, and receive a full refund of all deposits. After Due Diligence Period, Buyer may not terminate except for Seller default or failure of conditions precedent.
+
+3.7 Restoration. Buyer shall restore any damage caused by its inspections and shall indemnify and hold Seller harmless from any claims arising from Buyer's investigations.
+
+4. TITLE AND SURVEY
+
+4.1 Title Commitment. Seller has caused to be delivered to Buyer a commitment for an ALTA owner's title insurance policy from Pacific Coast Title & Escrow Company, showing fee simple title vested in Seller, subject only to Permitted Exceptions (as defined below).
+
+4.2 Permitted Exceptions. "Permitted Exceptions" means:
+   (a) Current real property taxes and assessments not yet due
+   (b) Covenants, conditions, restrictions, and easements of record that do not materially impair the current use or value of the Property
+   (c) Standard printed exceptions in the title policy
+   (d) Any matters approved by Buyer in writing
+
+4.3 Title Objections. Within fifteen (15) days after receiving the title commitment, Buyer may object in writing to any exceptions other than Permitted Exceptions. Seller shall have ten (10) days to respond. Seller may, but is not obligated to, cure objections except:
+   - Seller MUST remove at Closing: all monetary liens, mortgages, and deeds of trust
+   - Seller MUST remove: any liens or exceptions created by Seller after Effective Date
+
+4.4 Failure to Cure. If Seller cannot or will not cure title objections, Buyer may:
+   (a) Waive objections and proceed to Closing, or
+   (b) Terminate this Agreement and receive refund of all deposits
+
+4.5 Survey. Buyer may obtain, at Buyer's expense, an ALTA/NSPS Land Title Survey. If survey reveals encroachments or other defects, Buyer may object as set forth in Section 4.3.
+
+4.6 Title Insurance. At Closing, Buyer shall receive an ALTA Extended Coverage Owner's Policy of Title Insurance in the amount of the Purchase Price, insuring fee simple title in Buyer subject only to Permitted Exceptions.
+
+5. PROPERTY CONDITION AND WARRANTIES
+
+5.1 "AS IS" Sale. BUYER ACKNOWLEDGES AND AGREES THAT, EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, BUYER IS PURCHASING THE PROPERTY "AS IS, WHERE IS, WITH ALL FAULTS" BASED ON BUYER'S OWN INVESTIGATIONS.
+
+5.2 Seller's Limited Warranties. Seller represents and warrants to Buyer as of the Effective Date and as of the Closing Date:
+
+   (a) Authority: Seller has full power and authority to enter into this Agreement and convey the Property.
+   
+   (b) Ownership: Seller is the sole owner of the Property and has good and marketable fee simple title.
+   
+   (c) No Conflicts: This Agreement does not violate any other agreement to which Seller is a party.
+   
+   (d) Litigation: There is no pending or threatened litigation affecting the Property except as disclosed in writing to Buyer.
+   
+   (e) Leases: The lease documents provided to Buyer are true, correct, and complete copies. All leases are in full force and effect. Seller has not received notice of any tenant default.
+   
+   (f) Service Contracts: Seller has provided copies of all service contracts. All service contracts may be terminated within 30 days without penalty.
+   
+   (g) Violations: Seller has not received any written notice of uncured violations of building codes, zoning ordinances, or environmental laws.
+   
+   (h) Condemnation: Seller has not received notice of any pending condemnation or eminent domain proceeding.
+   
+   (i) Environmental: To Seller's actual knowledge without investigation, there are no underground storage tanks, asbestos, or hazardous materials on the Property except as disclosed.
+   
+   (j) Financial Information: The financial statements and rent roll provided are true, correct, and complete to the best of Seller's knowledge.
+
+5.3 Survival. Seller's representations and warranties survive Closing for eighteen (18) months. Claims must be asserted within this period.
+
+5.4 Knowledge Defined. "Seller's knowledge" or "Seller's actual knowledge" means the current actual (not constructive or imputed) knowledge of Marcus Wellington, Managing Member, without duty to investigate.
+
+5.5 DISCLAIMER. EXCEPT AS EXPRESSLY PROVIDED IN SECTION 5.2, SELLER MAKES NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR PARTICULAR PURPOSE, OR HABITABILITY. SELLER DISCLAIMS ANY WARRANTIES REGARDING:
+   - Physical condition of improvements
+   - Compliance with building codes or ADA
+   - Soil conditions or suitability for development
+   - Environmental conditions
+   - Accuracy or completeness of documents
+   - Income potential or financial performance
+
+5.6 Buyer's Responsibility. Buyer has conducted or will conduct its own investigations and relies on its own due diligence, not on any representations by Seller, Seller's agents, or brokers.
+
+6. TENANCIES
+
+6.1 Tenant Leases. The Property is subject to tenant leases identified in the rent roll provided to Buyer. Buyer agrees to take the Property subject to all tenant leases.
+
+6.2 Rent Roll. Seller represents that the rent roll dated October 15, 2025, provided to Buyer is accurate. Current occupancy is 94% (117,500 sq. ft. leased).
+
+6.3 Major Tenants. The Property has the following major tenants:
+   - Wellington Law Partners LLP: 45,000 sq. ft., Floors 10-12, Lease expires December 31, 2030
+   - TechCorp Industries Inc.: 35,000 sq. ft., Floors 7-8, Lease expires June 30, 2029
+   - Global Financial Advisors: 22,500 sq. ft., Floors 5-6, Lease expires March 31, 2028
+
+6.4 Security Deposits. Seller shall transfer to Buyer at Closing all tenant security deposits totaling $1,245,000.00. Buyer shall assume all obligations to tenants regarding security deposits.
+
+6.5 Tenant Estoppel Certificates. Seller shall use commercially reasonable efforts to obtain tenant estoppel certificates from all tenants representing at least 80% of net rentable area. Estoppels shall confirm:
+   - Lease terms and rental rates
+   - No defaults by landlord
+   - No offsets or defenses to rent payment
+   - Amount of security deposit
+   - Any tenant improvement allowances or free rent remaining
+
+6.6 Failure to Obtain Estoppels. If Seller cannot obtain estoppels from tenants representing 80% of net rentable area by five (5) business days before Closing, Buyer may:
+   (a) Waive the requirement and proceed to Closing, or
+   (b) Terminate this Agreement and receive refund of all deposits, or
+   (c) Extend Closing up to 15 days to allow additional time
+
+6.7 New Leases. After the Effective Date, Seller shall not enter into any new leases or modify existing leases without Buyer's prior written consent.
+
+6.8 Tenant Notices. At Closing, Seller and Buyer shall send joint notice to all tenants advising of the sale and directing future rent payments to Buyer.
+
+7. PROPERTY MANAGEMENT AND OPERATIONS
+
+7.1 Management Agreement. The Property is currently managed by Wellington Property Management LLC under agreement dated January 1, 2023, terminable on 60 days' notice. Seller shall terminate the management agreement effective as of Closing.
+
+7.2 Operations Pending Closing. Between the Effective Date and Closing, Seller shall:
+   (a) Operate the Property in the ordinary course of business
+   (b) Maintain the Property in its current condition, reasonable wear and tear excepted
+   (c) Keep all insurance policies in full force
+   (d) Perform all obligations under tenant leases
+   (e) Not materially alter the Property without Buyer's consent
+   (f) Not enter into contracts exceeding $25,000 without Buyer's consent
+   (g) Promptly notify Buyer of any casualty, condemnation, or litigation
+
+7.3 Service Contracts. Seller shall provide a list of all service contracts. Buyer may elect to:
+   (a) Assume contracts, or
+   (b) Terminate contracts (Seller responsible for termination costs)
+
+   Buyer shall notify Seller of its election at least ten (10) days before Closing.
+
+8. CONDITIONS PRECEDENT TO CLOSING
+
+8.1 Buyer's Conditions. Buyer's obligation to close is contingent upon:
+   (a) Satisfactory completion of due diligence (waived after Due Diligence Period)
+   (b) Seller's representations and warranties being true and correct as of Closing
+   (c) Seller performing all covenants and obligations under this Agreement
+   (d) No material adverse change in Property condition (except normal wear and tear)
+   (e) Delivery of tenant estoppel certificates as required
+   (f) Title commitment updated to Closing showing no new encumbrances
+   (g) Obtaining financing (if Buyer elects financing contingency – see Section 8.3)
+   (h) No pending litigation or governmental proceedings materially affecting Property
+
+8.2 Seller's Conditions. Seller's obligation to close is contingent upon:
+   (a) Buyer's representations and warranties being true and correct as of Closing
+   (b) Buyer performing all covenants and obligations under this Agreement
+   (c) Buyer depositing all funds required for Closing
+
+8.3 Financing Contingency. This transaction is NOT contingent upon Buyer obtaining financing unless Buyer elects a financing contingency by written notice within five (5) business days of the Effective Date.
+
+   If Buyer elects a financing contingency, Buyer must:
+   - Apply for financing within ten (10) business days
+   - Provide loan commitment letter within thirty (30) days
+   - Use diligent efforts to obtain financing
+   
+   If Buyer cannot obtain financing despite diligent efforts, Buyer may terminate and receive refund of all deposits upon delivery of written rejection letters from at least two (2) lenders.
+
+8.4 Failure of Conditions. If any condition precedent is not satisfied or waived by the party for whose benefit it exists, that party may terminate this Agreement by written notice, and deposits shall be returned or retained as provided herein.
+
+9. CLOSING
+
+9.1 Closing Date. The closing ("Closing") shall occur on or before January 15, 2026, or such other date as the parties mutually agree in writing ("Closing Date").
+
+9.2 Closing Location. Closing shall take place at the offices of Pacific Coast Title & Escrow Company, or as an escrow closing per California practice.
+
+9.3 Extensions. Either party may extend the Closing Date up to fifteen (15) days by written notice at least five (5) days before scheduled Closing Date if reasonably necessary to satisfy conditions precedent. Any further extensions require mutual agreement.
+
+9.4 Seller's Closing Deliveries. At Closing, Seller shall deliver:
+   (a) Grant Deed conveying fee simple title to Buyer, duly executed and acknowledged
+   (b) Bill of Sale for personal property and fixtures
+   (c) Assignment and Assumption of Leases
+   (d) Assignment of contracts, warranties, and permits
+   (e) Tenant estoppel certificates
+   (f) Updated rent roll
+   (g) Affidavit of Non-Foreign Status (FIRPTA)
+   (h) Closing statement and settlement statement
+   (i) Certificate re: representations and warranties
+   (j) Notice to tenants regarding sale and new ownership
+   (k) Keys, access codes, and security codes
+   (l) Original lease files and property records
+   (m) Such other documents reasonably required by Escrow Agent or title company
+
+9.5 Buyer's Closing Deliveries. At Closing, Buyer shall deliver:
+   (a) Balance of Purchase Price by wire transfer
+   (b) Assumption of Leases
+   (c) Assumption of assumed contracts
+   (d) Closing statement and settlement statement
+   (e) Certificate re: representations and warranties
+   (f) Such other documents reasonably required by Escrow Agent or title company
+
+9.6 Possession. Seller shall deliver possession of the Property to Buyer at Closing, subject to tenant leases.
+
+9.7 Closing Costs Settlement. All closing costs, prorations, and adjustments shall be set forth in a closing settlement statement prepared by Escrow Agent and approved by both parties.
+
+10. CASUALTY AND CONDEMNATION
+
+10.1 Casualty. If the Property is damaged by fire or other casualty before Closing:
+
+   (a) Minor Casualty (estimated repairs <$500,000): Seller shall assign insurance proceeds to Buyer, credit Buyer for the deductible, and Closing shall proceed as scheduled.
+   
+   (b) Major Casualty (estimated repairs ≥$500,000): Buyer may elect to:
+       (i) Proceed to Closing with assignment of insurance proceeds and credit for deductible, or
+       (ii) Terminate this Agreement and receive refund of all deposits
+       
+       Buyer must elect within fifteen (15) days of receiving notice of casualty.
+
+10.2 Condemnation. If a material portion of the Property (more than 10% of land area or building area) is taken or threatened to be taken by eminent domain before Closing:
+
+   Buyer may elect to:
+   (a) Proceed to Closing with reduction in Purchase Price equal to diminution in value, plus assignment of all condemnation proceeds, or
+   (b) Terminate this Agreement and receive refund of all deposits
+   
+   Buyer must elect within fifteen (15) days of receiving notice.
+
+10.3 De Minimis Taking. If the taking is immaterial (<10% of land or building area), Buyer may not terminate, but Seller shall assign all condemnation proceeds to Buyer and Closing shall proceed with Purchase Price reduction equal to value of taking.
+
+11. DEFAULT AND REMEDIES
+
+11.1 Seller Default. If Seller defaults in its obligations, Buyer may elect to:
+   (a) Terminate this Agreement and receive refund of all deposits plus reimbursement of reasonable due diligence costs up to $100,000, or
+   (b) Pursue specific performance to compel Seller to complete the sale, or
+   (c) Pursue any other remedies available at law or in equity
+
+11.2 Buyer Default. If Buyer defaults after expiration of the Due Diligence Period, Seller may elect to:
+   (a) Retain all deposits as liquidated damages (representing a reasonable estimate of Seller's damages and not a penalty), which shall be Seller's sole and exclusive remedy, or
+   (b) Waive liquidated damages and pursue any other remedies available at law or in equity, including specific performance
+
+   If Buyer defaults during Due Diligence Period (before Additional Deposit), Seller's sole remedy is to terminate and retain Earnest Money Deposit as liquidated damages.
+
+11.3 Liquidated Damages. The parties agree that Seller's actual damages from Buyer's default are difficult to ascertain. The liquidated damages amount ($5,500,000) represents a reasonable estimate of Seller's damages, including loss of opportunity to sell to other buyers, continued carrying costs, and lost investment opportunities. This is a good faith estimate, not a penalty.
+
+11.4 Attorneys' Fees. In any action or proceeding arising from this Agreement, the prevailing party shall be entitled to recover reasonable attorneys' fees and costs from the non-prevailing party.
+
+11.5 Waiver of Jury Trial. TO THE EXTENT PERMITTED BY LAW, THE PARTIES WAIVE ANY RIGHT TO TRIAL BY JURY IN ANY LITIGATION ARISING FROM THIS AGREEMENT.
+
+12. REPRESENTATIONS AND WARRANTIES OF BUYER
+
+12.1 Buyer represents and warrants to Seller:
+   (a) Buyer is duly organized, validly existing, and in good standing under the laws of Delaware
+   (b) Buyer has full power and authority to enter into and perform this Agreement
+   (c) This Agreement has been duly authorized, executed, and delivered by Buyer
+   (d) This Agreement constitutes legal, valid, and binding obligation of Buyer
+   (e) Buyer is not in violation of any agreement that would prevent performance
+   (f) Buyer is acquiring the Property for investment purposes
+   (g) Buyer is a sophisticated real estate investor with experience in commercial property acquisitions
+   (h) Buyer has conducted or will conduct its own due diligence
+   (i) Buyer is not relying on any representations by Seller except as expressly stated herein
+
+13. COMMISSIONS
+
+13.1 Brokers. Seller and Buyer each represent that they have not dealt with any real estate broker or agent in connection with this transaction except:
+
+   Seller's Broker: Premier Commercial Real Estate, Inc.
+   Seller's Agent: Andrew Mitchell
+   Commission: 2% of Purchase Price ($1,450,000)
+
+   Buyer's Broker: Metropolitan Investment Properties LLC
+   Buyer's Agent: Lisa Thompson
+   Commission: 2% of Purchase Price ($1,450,000)
+
+13.2 Payment. Seller shall pay all broker commissions pursuant to separate written agreements with brokers. Commissions shall be paid at Closing from Seller's proceeds.
+
+13.3 Indemnification. Each party shall indemnify and hold the other harmless from any claims for commissions or finder's fees by any broker claiming through that party, except for the named brokers above.
+
+14. MISCELLANEOUS PROVISIONS
+
+14.1 Entire Agreement. This Agreement, including all exhibits, constitutes the entire agreement between the parties and supersedes all prior negotiations, understandings, and agreements.
+
+14.2 Amendments. This Agreement may be amended only by written instrument signed by both parties.
+
+14.3 Assignment. Buyer may not assign this Agreement without Seller's prior written consent (not to be unreasonably withheld), except Buyer may assign to an entity controlled by Buyer or its principals. Any permitted assignee must assume all Buyer's obligations. Assignment does not release Buyer from its obligations.
+
+14.4 Notices. All notices shall be in writing and delivered by:
+   - Hand delivery with receipt
+   - Certified or registered mail, return receipt requested
+   - Nationally recognized overnight courier
+   - Email (with confirmation of receipt)
+
+   Notices are effective upon receipt.
+
+14.5 Time is of the Essence. Time is of the essence with respect to all dates and time periods specified in this Agreement.
+
+14.6 Governing Law. This Agreement is governed by the laws of the State of California.
+
+14.7 Counterparts. This Agreement may be executed in counterparts, including electronic and PDF signatures, each deemed an original and all constituting one agreement.
+
+14.8 Severability. If any provision is held invalid, the remaining provisions remain in full force and effect.
+
+14.9 Binding Effect. This Agreement binds and benefits the parties and their respective heirs, personal representatives, successors, and permitted assigns.
+
+14.10 Interpretation. Headings are for convenience only. Any ambiguity shall not be construed against the drafter. "Including" means "including without limitation."
+
+14.11 Survival. All representations, warranties, covenants, and indemnities survive Closing as specified herein.
+
+14.12 Confidentiality. The parties agree to keep the terms of this Agreement confidential, except disclosure to advisors, lenders, investors, and as required by law.
+
+14.13 1031 Exchange. Either party may complete this transaction as part of a like-kind exchange under Internal Revenue Code Section 1031. The non-exchanging party shall cooperate and execute documents reasonably necessary, provided no additional cost or liability is imposed on the non-exchanging party.
+
+14.14 FIRPTA. Seller shall deliver at Closing an affidavit pursuant to the Foreign Investment in Real Property Tax Act (FIRPTA) certifying Seller is not a foreign person for U.S. tax purposes.
+
+14.15 California Withholding. Seller and Buyer shall comply with California Revenue and Taxation Code Section 18662 regarding state withholding on real estate sales.
+
+EXHIBITS:
+
+Exhibit A: Legal Description
+Exhibit B: Survey (to be attached)
+Exhibit C: Personal Property Excluded from Sale
+Exhibit D: Form of Grant Deed
+Exhibit E: Assignment and Assumption of Leases
+Exhibit F: Rent Roll
+Exhibit G: Service Contracts
+Exhibit H: Tenant Leases
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+SELLER:
+VICTORIA ESTATES HOLDINGS LLC
+
+By: /s/ Marcus Wellington
+Name: Marcus Wellington
+Title: Managing Member
+Date: November 1, 2025
+
+BUYER:
+HORIZON INVESTMENT GROUP INC.
+
+By: /s/ Rachel Chen
+Name: Rachel Chen
+Title: Chief Investment Officer
+Date: November 1, 2025
+
+ACKNOWLEDGMENT OF RECEIPT OF DEPOSIT
+
+Pacific Coast Title & Escrow Company acknowledges receipt of Earnest Money Deposit of $2,000,000.00 from Buyer on November 4, 2025.
+
+/s/ David Morrison
+David Morrison, Escrow Officer
+Date: November 4, 2025

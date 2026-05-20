@@ -1,0 +1,238 @@
+PARTNERSHIP AGREEMENT
+
+This Partnership Agreement ("Agreement") is entered into as of November 1, 2025, by and between:
+
+PARTNER A: Sarah Mitchell, residing at 456 Oak Street, San Francisco, California 94102, United States ("First Partner")
+
+PARTNER B: TechVentures LLC, a Delaware limited liability company, with its principal place of business at 789 Innovation Drive, Palo Alto, California 94301 ("Second Partner")
+
+RECITALS
+
+WHEREAS, the Partners wish to form a general partnership to engage in the business of developing and marketing artificial intelligence software solutions;
+
+WHEREAS, each Partner brings unique skills, experience, and capital contributions to the partnership;
+
+NOW, THEREFORE, in consideration of the mutual covenants and agreements contained herein, the parties agree as follows:
+
+ARTICLE 1: FORMATION AND NAME
+
+1.1 Formation. The Partners hereby form a general partnership under the laws of the State of California.
+
+1.2 Partnership Name. The partnership shall be known as "MitchellTech AI Partners" and shall conduct business under this name.
+
+1.3 Principal Place of Business. The principal office shall be located at 789 Innovation Drive, Palo Alto, California 94301, or such other location as the Partners may agree.
+
+1.4 Term. The partnership shall commence on November 1, 2025, and shall continue until December 31, 2030, unless earlier terminated as provided herein.
+
+ARTICLE 2: PURPOSE AND SCOPE
+
+2.1 Business Purpose. The partnership is formed for the purpose of:
+   (a) Developing machine learning and AI software products
+   (b) Providing consulting services in artificial intelligence
+   (c) Licensing AI technology to third parties
+   (d) Any lawful business purposes agreed upon by the Partners
+
+2.2 Scope of Activities. The partnership shall have the power to engage in any lawful act or activity for which partnerships may be formed under California law.
+
+ARTICLE 3: CAPITAL CONTRIBUTIONS
+
+3.1 Initial Contributions. The Partners agree to contribute the following:
+   
+   First Partner (Sarah Mitchell):
+   - Cash contribution: $500,000 USD
+   - Technical expertise and 2,000 hours of development work
+   - Proprietary AI algorithms valued at $250,000 USD
+   Total Initial Contribution: $750,000 USD
+
+   Second Partner (TechVentures LLC):
+   - Cash contribution: $1,000,000 USD
+   - Office space and equipment valued at $250,000 USD
+   Total Initial Contribution: $1,250,000 USD
+
+3.2 Additional Contributions. Additional capital contributions may be made only with the unanimous written consent of all Partners.
+
+3.3 No Interest on Capital. No Partner shall be entitled to interest on their capital contribution.
+
+3.4 Return of Capital. No Partner shall have the right to demand return of capital except upon dissolution and winding up of the partnership.
+
+ARTICLE 4: PROFIT AND LOSS ALLOCATION
+
+4.1 Profit Sharing. Net profits shall be distributed as follows:
+   - First Partner: 37.5% (based on $750,000 contribution)
+   - Second Partner: 62.5% (based on $1,250,000 contribution)
+
+4.2 Loss Allocation. Net losses shall be allocated in the same proportion as profits.
+
+4.3 Distribution Timing. Distributions shall be made quarterly within 30 days after the end of each calendar quarter, or as otherwise agreed by the Partners.
+
+4.4 Tax Allocations. Items of income, gain, loss, and deduction shall be allocated for tax purposes in accordance with the profit and loss sharing ratios.
+
+ARTICLE 5: MANAGEMENT AND DUTIES
+
+5.1 Management Authority. All Partners shall have equal rights in the management and conduct of partnership business, regardless of capital contribution percentages.
+
+5.2 Major Decisions. The following decisions require unanimous consent of all Partners:
+   (a) Admission of new partners
+   (b) Sale or disposition of substantially all partnership assets
+   (c) Amendment of this Agreement
+   (d) Merger or acquisition transactions exceeding $500,000 USD
+   (e) Loans or credit arrangements exceeding $250,000 USD
+   (f) Entering into contracts with terms exceeding three years
+   (g) Dissolution of the partnership
+
+5.3 Day-to-Day Operations. Ordinary business decisions may be made by either Partner acting alone.
+
+5.4 Compensation. Partners shall receive the following monthly compensation for services:
+   - First Partner: $15,000 USD per month
+   - Second Partner: $10,000 USD per month (management fee)
+
+5.5 Devotion of Time. First Partner shall devote full-time attention to partnership business. Second Partner may engage in other business activities provided they do not compete with the partnership.
+
+ARTICLE 6: BOOKS AND RECORDS
+
+6.1 Accounting Records. The partnership shall maintain complete and accurate books of account in accordance with Generally Accepted Accounting Principles (GAAP).
+
+6.2 Fiscal Year. The fiscal year shall be the calendar year ending December 31.
+
+6.3 Inspection Rights. Each Partner shall have the right to inspect and copy partnership books and records during normal business hours upon reasonable notice.
+
+6.4 Annual Statements. Within 90 days after the end of each fiscal year, the partnership shall provide each Partner with:
+   (a) Balance sheet as of the end of the fiscal year
+   (b) Income statement for the fiscal year
+   (c) Statement of cash flows
+   (d) Tax information (Schedule K-1)
+
+ARTICLE 7: CONFIDENTIALITY AND NON-COMPETITION
+
+7.1 Confidential Information. Each Partner agrees to maintain in strict confidence all proprietary information, trade secrets, customer lists, pricing information, business strategies, and technical data related to the partnership business.
+
+7.2 Non-Competition. During the term of this Agreement and for a period of two (2) years after termination, no Partner shall:
+   (a) Engage in any business that directly competes with the partnership
+   (b) Solicit partnership employees, customers, or clients
+   (c) Use partnership confidential information for any competing purpose
+
+7.3 Geographic Scope. The non-competition obligations shall apply within a 100-mile radius of any location where the partnership conducts business.
+
+7.4 Survival. The confidentiality obligations shall survive termination of this Agreement indefinitely.
+
+ARTICLE 8: INTELLECTUAL PROPERTY
+
+8.1 Partnership IP. All intellectual property created during the partnership shall be owned by the partnership, including:
+   - Patents, copyrights, and trademarks
+   - Software code and algorithms
+   - Trade secrets and know-how
+   - Customer relationships and goodwill
+
+8.2 Pre-Existing IP. Each Partner retains ownership of intellectual property contributed to the partnership, but grants the partnership a perpetual, royalty-free license to use such IP.
+
+8.3 Assignment. Partners agree to execute all documents necessary to assign partnership-created IP to the partnership.
+
+ARTICLE 9: TRANSFER OF PARTNERSHIP INTERESTS
+
+9.1 Restrictions on Transfer. No Partner may sell, assign, pledge, or otherwise transfer their partnership interest without the prior written consent of all other Partners.
+
+9.2 Right of First Refusal. If a Partner receives a bona fide offer to purchase their interest, the other Partners shall have a right of first refusal to purchase such interest on the same terms within 30 days of written notice.
+
+9.3 Valuation. If Partners cannot agree on valuation, an independent business appraiser mutually agreed upon shall determine fair market value.
+
+ARTICLE 10: WITHDRAWAL AND DISSOLUTION
+
+10.1 Voluntary Withdrawal. A Partner may withdraw from the partnership upon 90 days' written notice to all other Partners.
+
+10.2 Involuntary Withdrawal. A Partner shall be deemed to have withdrawn upon:
+   (a) Death or legal incapacity
+   (b) Bankruptcy or insolvency
+   (c) Material breach of this Agreement
+   (d) Unanimous vote of other Partners for cause
+
+10.3 Buyout Upon Withdrawal. Upon withdrawal, the departing Partner (or their estate) shall be entitled to receive the fair market value of their partnership interest, payable in 24 equal monthly installments with interest at 6% per annum.
+
+10.4 Events of Dissolution. The partnership shall dissolve upon:
+   (a) Expiration of the term
+   (b) Written agreement of all Partners
+   (c) Withdrawal of a Partner if not continued by remaining Partners
+   (d) Occurrence of any event that makes it unlawful to continue the business
+   (e) Court order
+
+10.5 Winding Up. Upon dissolution, the partnership shall be wound up, assets liquidated, and proceeds distributed in the following order:
+   (a) Payment of partnership debts and obligations
+   (b) Payment of loans from Partners
+   (c) Return of capital contributions
+   (d) Distribution of remaining assets according to profit-sharing ratios
+
+ARTICLE 11: DISPUTE RESOLUTION
+
+11.1 Mediation. Any dispute arising under this Agreement shall first be submitted to mediation with a mutually agreed mediator in San Francisco, California.
+
+11.2 Arbitration. If mediation fails, disputes shall be resolved by binding arbitration under the rules of the American Arbitration Association. The arbitration shall be held in San Francisco, California.
+
+11.3 Costs. The prevailing party in any dispute shall be entitled to recover reasonable attorneys' fees and costs.
+
+11.4 Injunctive Relief. Nothing herein shall prevent a Partner from seeking injunctive relief in court for breach of confidentiality or non-competition obligations.
+
+ARTICLE 12: INSURANCE AND INDEMNIFICATION
+
+12.1 Insurance. The partnership shall maintain the following insurance:
+   (a) General liability insurance: $2,000,000 USD per occurrence
+   (b) Professional liability (E&O): $5,000,000 USD per claim
+   (c) Cyber liability insurance: $3,000,000 USD
+   (d) Property insurance covering all partnership assets
+
+12.2 Indemnification. The partnership shall indemnify and hold harmless each Partner from any liability arising from partnership business, except for acts of gross negligence or willful misconduct.
+
+ARTICLE 13: MISCELLANEOUS PROVISIONS
+
+13.1 Entire Agreement. This Agreement constitutes the entire understanding between the parties and supersedes all prior negotiations and agreements.
+
+13.2 Amendment. This Agreement may be amended only by written instrument signed by all Partners.
+
+13.3 Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of California, without regard to conflict of law principles.
+
+13.4 Severability. If any provision is held invalid or unenforceable, the remaining provisions shall continue in full force and effect.
+
+13.5 Notices. All notices shall be in writing and delivered by certified mail, return receipt requested, or by recognized overnight courier to the addresses set forth above.
+
+13.6 Counterparts. This Agreement may be executed in counterparts, each of which shall be deemed an original.
+
+13.7 Force Majeure. No Partner shall be liable for failure to perform due to causes beyond reasonable control, including acts of God, war, strikes, or government restrictions.
+
+13.8 Assignment. This Agreement shall be binding upon and inure to the benefit of the parties and their respective heirs, executors, administrators, successors, and permitted assigns.
+
+IN WITNESS WHEREOF, the parties have executed this Partnership Agreement as of the date first written above.
+
+FIRST PARTNER:
+
+/s/ Sarah Mitchell
+Sarah Mitchell
+Date: November 1, 2025
+
+SECOND PARTNER:
+
+/s/ Robert Chen
+Robert Chen, Managing Director
+TechVentures LLC
+Date: November 1, 2025
+
+WITNESSES:
+
+/s/ Jennifer Adams
+Jennifer Adams
+123 Market Street, San Francisco, CA 94103
+Date: November 1, 2025
+
+/s/ Michael Torres
+Michael Torres
+456 Battery Street, San Francisco, CA 94111
+Date: November 1, 2025
+
+NOTARY ACKNOWLEDGMENT
+
+State of California
+County of San Francisco
+
+On November 1, 2025, before me, Patricia Wong, Notary Public, personally appeared Sarah Mitchell and Robert Chen, proved to me on the basis of satisfactory evidence to be the persons whose names are subscribed to the within instrument and acknowledged to me that they executed the same in their authorized capacities.
+
+/s/ Patricia Wong
+Patricia Wong, Notary Public
+Commission Number: 2345678
+My Commission Expires: December 31, 2027

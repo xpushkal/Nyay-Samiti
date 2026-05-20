@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+pydantic
+transformers
+torch
+sentence-transformers
+spacy
+langdetect
+pdfplumber
+numpy
+pandas
+scikit-learn
+tqdm
+python-multipart
+huggingface_hub
+datasets
+kaggle

@@ -1,0 +1,330 @@
+TERMS OF SERVICE AGREEMENT
+
+Last Updated: November 1, 2025
+Effective Date: November 1, 2025
+
+ACCEPTANCE OF TERMS
+
+These Terms of Service ("Terms", "ToS") constitute a legally binding agreement between you ("User", "you", "your") and CloudSync Technologies Inc., a Delaware corporation with principal offices at 2500 Technology Boulevard, Suite 800, Austin, Texas 78701, United States ("Company", "we", "us", "our").
+
+By accessing or using our cloud storage and synchronization platform ("Service"), you agree to be bound by these Terms. If you do not agree to these Terms, you must not access or use the Service.
+
+1. DEFINITIONS
+
+1.1 "Account" means your registered account with the Service.
+
+1.2 "Content" means any data, files, documents, images, videos, or other materials uploaded, stored, or transmitted through the Service.
+
+1.3 "Premium Features" means enhanced features available to paid subscribers, including increased storage capacity, advanced sharing options, and priority support.
+
+1.4 "Subscription" means a paid plan providing access to Premium Features.
+
+1.5 "User Data" means all Content and information provided by User through the Service.
+
+1.6 "Intellectual Property" means patents, copyrights, trademarks, trade secrets, and other proprietary rights.
+
+2. ELIGIBILITY AND ACCOUNT REGISTRATION
+
+2.1 Age Requirements. You must be at least 18 years old to use the Service. If you are between 13 and 18, you may only use the Service with parental consent and supervision.
+
+2.2 Account Creation. To use the Service, you must:
+   (a) Provide accurate, current, and complete information
+   (b) Maintain and promptly update your account information
+   (c) Maintain the security and confidentiality of your password
+   (d) Accept responsibility for all activities under your account
+   (e) Immediately notify us of any unauthorized use
+
+2.3 Account Types. We offer the following account types:
+   - Free Tier: 10 GB storage, basic features
+   - Personal Pro: 1 TB storage, premium features - $9.99 USD/month
+   - Business Standard: 5 TB storage, team features - $19.99 USD/user/month
+   - Enterprise: Unlimited storage, custom features - Contact for pricing
+
+2.4 Business Accounts. For business accounts, the organization administrator accepts these Terms on behalf of all users under that account.
+
+2.5 Verification. We reserve the right to verify your identity and may suspend accounts pending verification.
+
+3. LICENSE AND USAGE RIGHTS
+
+3.1 Limited License. Subject to compliance with these Terms, we grant you a limited, non-exclusive, non-transferable, revocable license to access and use the Service for your personal or internal business purposes.
+
+3.2 Restrictions. You may NOT:
+   (a) Copy, modify, or create derivative works of the Service
+   (b) Reverse engineer, decompile, or disassemble the Service
+   (c) Rent, lease, sell, or sublicense access to the Service
+   (d) Use the Service for any illegal or unauthorized purpose
+   (e) Remove or alter any proprietary notices or labels
+   (f) Use automated systems (bots, scrapers) without written permission
+   (g) Attempt to gain unauthorized access to any systems or networks
+   (h) Interfere with or disrupt the Service or servers
+
+3.3 API Usage. If you use our API, you must comply with our API Terms and rate limits. Excessive API calls may result in throttling or suspension.
+
+3.4 Redistribution Prohibited. You may not redistribute, resell, or white-label the Service without a separate written agreement.
+
+4. USER CONTENT AND DATA
+
+4.1 Ownership. You retain all ownership rights to your User Data. You represent and warrant that you own or have necessary rights to all Content you upload.
+
+4.2 License to Company. By uploading Content, you grant us a worldwide, non-exclusive, royalty-free license to:
+   (a) Store, process, and transmit your Content
+   (b) Create backup copies for disaster recovery
+   (c) Generate thumbnails and previews
+   (d) Index Content for search functionality
+   (e) Perform necessary technical operations
+
+4.3 This license terminates when you delete Content or terminate your account, except for:
+   - Content shared with other users (remains available to them)
+   - Cached or backup copies (deleted within 90 days)
+   - Content required for legal or compliance purposes
+
+4.4 Prohibited Content. You may NOT upload or share:
+   (a) Illegal, fraudulent, or unauthorized materials
+   (b) Malware, viruses, or malicious code
+   (c) Content that infringes intellectual property rights
+   (d) Pornographic, obscene, or explicit sexual content
+   (e) Content promoting violence, terrorism, or hate speech
+   (f) Personal information of others without consent
+   (g) Spam or unsolicited commercial content
+   (h) Content violating export control laws
+
+4.5 Content Monitoring. We reserve the right (but have no obligation) to:
+   - Monitor Content for compliance with these Terms
+   - Remove or disable access to violating Content
+   - Report illegal activity to law enforcement
+   - Suspend or terminate accounts for violations
+
+4.6 Backup Responsibility. While we maintain backup systems, you are responsible for maintaining your own backups. We are not liable for data loss.
+
+5. SUBSCRIPTION AND PAYMENT TERMS
+
+5.1 Subscription Plans. Premium features require a paid Subscription. Current pricing is displayed at www.cloudsync.com/pricing.
+
+5.2 Payment Authorization. By subscribing, you authorize us to charge your payment method:
+   (a) Initial subscription fee
+   (b) Recurring subscription fees
+   (c) Any applicable taxes
+   (d) Overage fees for exceeding plan limits
+
+5.3 Billing Cycle. Subscriptions are billed:
+   - Monthly plans: Charged on the same day each month
+   - Annual plans: Charged annually on subscription anniversary
+   - Automatic renewal unless cancelled before renewal date
+
+5.4 Price Changes. We may change subscription prices with 30 days' notice. Changes apply to subsequent billing cycles. Continued use after price change constitutes acceptance.
+
+5.5 Taxes. Prices exclude applicable sales, use, value-added, and similar taxes. You are responsible for all taxes except those based on our net income.
+
+5.6 Refund Policy:
+   (a) Monthly subscriptions: No refunds for partial months
+   (b) Annual subscriptions: Pro-rated refund if cancelled within 30 days
+   (c) No refunds after 30 days or for violations of Terms
+   (d) Refund requests to billing@cloudsync.com
+
+5.7 Free Trial. New users may receive a free trial. We may charge your payment method if you don't cancel before trial ends. One trial per user.
+
+5.8 Payment Disputes. Disputed charges must be reported within 60 days. Failure to pay may result in account suspension or termination.
+
+5.9 Overages. If you exceed your plan limits:
+   - Storage overage: $0.10 USD per GB per month
+   - Bandwidth overage: $0.05 USD per GB
+   - You will be notified at 80%, 90%, and 100% of limit
+
+6. CANCELLATION AND TERMINATION
+
+6.1 Your Right to Cancel. You may cancel your Subscription at any time through account settings. Cancellation takes effect at end of current billing period. You retain access until period ends.
+
+6.2 Termination by Company. We may suspend or terminate your account:
+   (a) For violation of these Terms
+   (b) For fraudulent or illegal activity
+   (c) For non-payment of fees
+   (d) If required by law
+   (e) For prolonged inactivity (180+ days)
+   (f) For abusive behavior toward our staff
+
+6.3 Notice. We will provide reasonable notice before termination unless:
+   - Immediate action required for security reasons
+   - You are in material breach
+   - Required by law or court order
+
+6.4 Effect of Termination:
+   (a) Your access to the Service immediately ceases
+   (b) You have 30 days to download your Content
+   (c) After 30 days, we may permanently delete your Content
+   (d) Fees owed remain due and payable
+   (e) Provisions that should survive (limitations of liability, etc.) remain in effect
+
+6.5 Data Export. Before termination, you may export your data using our export tools or API.
+
+7. PRIVACY AND DATA PROTECTION
+
+7.1 Privacy Policy. Our collection and use of personal information is governed by our Privacy Policy at www.cloudsync.com/privacy, incorporated by reference.
+
+7.2 Data Security. We implement industry-standard security measures including:
+   - 256-bit AES encryption for data at rest
+   - TLS 1.3 encryption for data in transit
+   - Multi-factor authentication (optional)
+   - Regular security audits and penetration testing
+   - SOC 2 Type II compliance
+
+7.3 Data Location. Your data is stored in secure data centers in the United States, European Union, and Asia-Pacific. You may select primary storage region in account settings.
+
+7.4 Data Processing. We process data in accordance with GDPR, CCPA, and other applicable privacy laws. You consent to data processing as described in our Privacy Policy.
+
+7.5 Third-Party Services. We use third-party services for:
+   - Payment processing (Stripe Inc.)
+   - Analytics (Google Analytics)
+   - Customer support (Zendesk)
+   - CDN (Cloudflare)
+   These providers have their own privacy policies.
+
+8. INTELLECTUAL PROPERTY RIGHTS
+
+8.1 Company IP. The Service, including all software, designs, graphics, text, and trademarks, is owned by CloudSync Technologies Inc. or our licensors. All rights reserved.
+
+8.2 Trademarks. "CloudSync", the CloudSync logo, and other marks are trademarks of CloudSync Technologies Inc. You may not use our trademarks without prior written permission.
+
+8.3 Copyright. All content on our website and within the Service is protected by copyright law. Unauthorized reproduction is prohibited.
+
+8.4 DMCA Policy. We comply with the Digital Millennium Copyright Act. If you believe your copyright has been infringed, submit a notice to dmca@cloudsync.com including:
+   (a) Description of copyrighted work
+   (b) Location of infringing material
+   (c) Your contact information
+   (d) Statement of good faith belief
+   (e) Statement under penalty of perjury
+   (f) Physical or electronic signature
+
+8.5 Counter-Notice. If your content was removed, you may file a counter-notice if you believe removal was erroneous.
+
+9. WARRANTIES AND DISCLAIMERS
+
+9.1 Service "AS IS". THE SERVICE IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED.
+
+9.2 No Warranties. WE DISCLAIM ALL WARRANTIES INCLUDING:
+   (a) MERCHANTABILITY
+   (b) FITNESS FOR PARTICULAR PURPOSE
+   (c) NON-INFRINGEMENT
+   (d) TITLE
+   (e) ACCURACY OR RELIABILITY
+   (f) UNINTERRUPTED OR ERROR-FREE OPERATION
+   (g) VIRUS-FREE OR SECURE
+
+9.3 Uptime. While we strive for 99.9% uptime, we do not guarantee uninterrupted service. Scheduled maintenance may cause temporary unavailability.
+
+9.4 Third-Party Content. We are not responsible for content, accuracy, or availability of third-party websites or services linked from our Service.
+
+9.5 Your Representations. You represent and warrant that:
+   (a) You have legal capacity to enter this agreement
+   (b) Your use complies with all applicable laws
+   (c) You own or have rights to Content you upload
+   (d) Your Content does not violate third-party rights
+
+10. LIMITATION OF LIABILITY
+
+10.1 MAXIMUM LIABILITY. TO THE MAXIMUM EXTENT PERMITTED BY LAW, OUR TOTAL LIABILITY SHALL NOT EXCEED THE GREATER OF:
+   (a) FEES PAID BY YOU IN THE 12 MONTHS BEFORE THE CLAIM, OR
+   (b) ONE HUNDRED DOLLARS ($100 USD)
+
+10.2 EXCLUDED DAMAGES. WE SHALL NOT BE LIABLE FOR:
+   (a) INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES
+   (b) LOSS OF PROFITS, REVENUE, OR BUSINESS OPPORTUNITIES
+   (c) LOSS OF DATA OR CONTENT
+   (d) LOSS OF GOODWILL OR REPUTATION
+   (e) COST OF SUBSTITUTE SERVICES
+   (f) UNAUTHORIZED ACCESS TO YOUR ACCOUNT
+
+10.3 This limitation applies regardless of the legal theory (contract, tort, negligence, strict liability, or otherwise) and even if we were advised of the possibility of such damages.
+
+10.4 Jurisdictional Limitations. Some jurisdictions do not allow limitation of implied warranties or liability for incidental/consequential damages. In such jurisdictions, our liability is limited to the maximum extent permitted by law.
+
+10.5 Exception. Nothing in these Terms limits liability for:
+   - Death or personal injury caused by negligence
+   - Fraud or fraudulent misrepresentation
+   - Gross negligence or willful misconduct
+   - Violations that cannot be limited by law
+
+11. INDEMNIFICATION
+
+11.1 Your Indemnification. You agree to indemnify, defend, and hold harmless CloudSync Technologies Inc., its affiliates, officers, directors, employees, agents, and licensors from any claims, liabilities, damages, losses, costs, or expenses (including reasonable attorneys' fees) arising from:
+   (a) Your use or misuse of the Service
+   (b) Your violation of these Terms
+   (c) Your violation of any law or regulation
+   (d) Your Content or any claim it infringes third-party rights
+   (e) Your negligent or willful misconduct
+
+11.2 Defense. We reserve the right to assume exclusive defense and control of any matter subject to indemnification. You will cooperate with our defense of such claims.
+
+12. DISPUTE RESOLUTION
+
+12.1 Informal Resolution. Before filing a claim, you agree to contact us at legal@cloudsync.com to attempt informal resolution. We will attempt to resolve disputes within 60 days.
+
+12.2 Binding Arbitration. Any dispute not resolved informally shall be resolved by binding arbitration under the rules of the American Arbitration Association (AAA).
+
+12.3 Arbitration Procedures:
+   (a) Arbitration shall be conducted in Austin, Texas
+   (b) Conducted by single arbitrator mutually agreed
+   (c) Governed by Federal Arbitration Act
+   (d) Award may be entered as judgment in any court
+   (e) Each party bears own costs unless otherwise awarded
+
+12.4 Class Action Waiver. YOU AGREE TO ARBITRATE DISPUTES ONLY ON AN INDIVIDUAL BASIS. YOU WAIVE ANY RIGHT TO PARTICIPATE IN CLASS ACTIONS, CLASS ARBITRATIONS, OR REPRESENTATIVE ACTIONS.
+
+12.5 Exceptions. Either party may seek injunctive relief in court for:
+   - Intellectual property infringement
+   - Confidentiality breaches
+   - Unauthorized access to systems
+
+12.6 Opt-Out. You may opt out of arbitration by sending written notice to legal@cloudsync.com within 30 days of account creation. Opt-out applies only to arbitration; other Terms remain in effect.
+
+12.7 Governing Law. These Terms are governed by the laws of the State of Texas, without regard to conflict of law principles.
+
+13. GENERAL PROVISIONS
+
+13.1 Entire Agreement. These Terms, together with our Privacy Policy and any other referenced policies, constitute the entire agreement between you and CloudSync Technologies Inc.
+
+13.2 Amendments. We may modify these Terms at any time by posting updated Terms at www.cloudsync.com/terms. Material changes will be notified via email or Service notification 30 days before effective date. Continued use after changes constitute acceptance.
+
+13.3 Severability. If any provision is found invalid or unenforceable, the remaining provisions remain in full force and effect, and the invalid provision shall be modified to the minimum extent necessary to make it enforceable.
+
+13.4 Waiver. Our failure to enforce any right or provision does not constitute a waiver of such right or provision.
+
+13.5 Assignment. You may not assign or transfer these Terms without our written consent. We may assign these Terms without restriction. Any unauthorized assignment is void.
+
+13.6 No Third-Party Beneficiaries. These Terms do not create any third-party beneficiary rights except as expressly stated.
+
+13.7 Force Majeure. Neither party is liable for failure to perform due to causes beyond reasonable control, including acts of God, natural disasters, war, terrorism, riots, labor disputes, government actions, or internet/telecommunications failures.
+
+13.8 Notices. Legal notices must be sent to:
+   - To You: Email address in your account
+   - To Us: legal@cloudsync.com or CloudSync Technologies Inc., Legal Department, 2500 Technology Boulevard, Suite 800, Austin, Texas 78701
+
+Notices are deemed received when sent via email or 3 business days after mailing.
+
+13.9 Survival. Sections that by their nature should survive termination shall survive, including: Ownership, Warranties, Limitation of Liability, Indemnification, Dispute Resolution, and General Provisions.
+
+13.10 Export Compliance. The Service and underlying technology may be subject to U.S. export control laws. You agree to comply with all applicable export laws and regulations.
+
+13.11 Government Users. If you are a U.S. government entity, the Service is a "Commercial Item" as defined in FAR 2.101, and rights are limited to those granted to commercial users.
+
+13.12 Interpretation. Headings are for convenience only and do not affect interpretation. "Including" means "including without limitation."
+
+14. CONTACT INFORMATION
+
+CloudSync Technologies Inc.
+2500 Technology Boulevard, Suite 800
+Austin, Texas 78701
+United States
+
+General Inquiries: support@cloudsync.com
+Legal Notices: legal@cloudsync.com
+Privacy Inquiries: privacy@cloudsync.com
+DMCA Notices: dmca@cloudsync.com
+Billing Questions: billing@cloudsync.com
+
+Phone: +1 (512) 555-0100
+Business Hours: Monday-Friday, 9:00 AM - 6:00 PM CST
+
+BY USING THE SERVICE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THESE TERMS OF SERVICE.
+
+Copyright © 2025 CloudSync Technologies Inc. All rights reserved.
+Version 3.2 | Effective November 1, 2025
